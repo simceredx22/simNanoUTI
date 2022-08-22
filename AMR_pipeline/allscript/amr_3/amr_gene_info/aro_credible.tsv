@@ -1,0 +1,1755 @@
+ARO_name	AMR_Gene_Family	Credi_rank
+23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+AAC(3)-Ia	AAC(3)	AMR_Gene_Family
+AAC(3)-Ib	AAC(3)	AMR_Gene_Family
+AAC(3)-Ic	AAC(3)	AMR_Gene_Family
+AAC(3)-Id	AAC(3)	AMR_Gene_Family
+AAC(3)-IIa	AAC(3)	AMR_Gene_Family
+AAC(3)-IIb	AAC(3)	AMR_Gene_Family
+AAC(3)-IIc	AAC(3)	AMR_Gene_Family
+AAC(3)-IId	AAC(3)	AMR_Gene_Family
+AAC(3)-IIe	AAC(3)	AMR_Gene_Family
+AAC(3)-IIg	AAC(3)	AMR_Gene_Family
+AAC(3)-IIIa	AAC(3)	AMR_Gene_Family
+AAC(3)-IIIb	AAC(3)	AMR_Gene_Family
+AAC(3)-IIIc	AAC(3)	AMR_Gene_Family
+AAC(3)-IV	AAC(3)	AMR_Gene_Family
+AAC(3)-IVb	AAC(3)	AMR_Gene_Family
+AAC(3)-IXa	AAC(3)	AMR_Gene_Family
+AAC(3)-VIa	AAC(3)	AMR_Gene_Family
+AAC(3)-VIIa	AAC(3)	AMR_Gene_Family
+AAC(3)-VIIIa	AAC(3)	AMR_Gene_Family
+AAC(3)-Xa	AAC(3)	AMR_Gene_Family
+aadA	ANT(3'')	AMR_Gene_Family
+aadA10	ANT(3'')	AMR_Gene_Family
+aadA11	ANT(3'')	AMR_Gene_Family
+aadA12	ANT(3'')	AMR_Gene_Family
+aadA13	ANT(3'')	AMR_Gene_Family
+aadA14	ANT(3'')	AMR_Gene_Family
+aadA15	ANT(3'')	AMR_Gene_Family
+aadA16	ANT(3'')	AMR_Gene_Family
+aadA17	ANT(3'')	AMR_Gene_Family
+aadA2	ANT(3'')	AMR_Gene_Family
+aadA21	ANT(3'')	AMR_Gene_Family
+aadA22	ANT(3'')	AMR_Gene_Family
+aadA23	ANT(3'')	AMR_Gene_Family
+aadA24	ANT(3'')	AMR_Gene_Family
+aadA25	ANT(3'')	AMR_Gene_Family
+aadA27	ANT(3'')	AMR_Gene_Family
+aadA3	ANT(3'')	AMR_Gene_Family
+aadA4	ANT(3'')	AMR_Gene_Family
+aadA5	ANT(3'')	AMR_Gene_Family
+aadA6	ANT(3'')	AMR_Gene_Family
+aadA6/aadA10	ANT(3'')	AMR_Gene_Family
+aadA7	ANT(3'')	AMR_Gene_Family
+aadA8	ANT(3'')	AMR_Gene_Family
+aadA8b	ANT(3'')	AMR_Gene_Family
+aadA9	ANT(3'')	AMR_Gene_Family
+Acinetobacter baumannii ampC beta-lactamase	ampC-type beta-lactamase	AMR_Gene_Family
+ANT(3'')-Ib	ANT(3'')	AMR_Gene_Family
+ANT(3'')-IIa	ANT(3'')	AMR_Gene_Family
+ANT(3'')-IIb	ANT(3'')	AMR_Gene_Family
+ANT(3'')-IIc	ANT(3'')	AMR_Gene_Family
+blaI	blaZ beta-lactamase	AMR_Gene_Family
+blaR1	blaZ beta-lactamase	AMR_Gene_Family
+CTX-M-1	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-10	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-100	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-101	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-102	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-103	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-104	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-105	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-106	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-107	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-108	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-109	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-11	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-110	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-111	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-112	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-113	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-114	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-115	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-116	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-117	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-12	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-121	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-122	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-123	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-124	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-125	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-126	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-129	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-13	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-130	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-131	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-132	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-134	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-136	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-137	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-139	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-14	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-141	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-142	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-144	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-147	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-148	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-15	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-151	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-152	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-155	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-156	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-157	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-158	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-159	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-16	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-160	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-161	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-162	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-163	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-164	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-165	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-166	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-17	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-19	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-2	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-20	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-21	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-22	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-23	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-24	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-25	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-26	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-27	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-28	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-29	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-3	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-30	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-31	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-32	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-33	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-34	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-35	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-36	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-37	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-38	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-39	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-4	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-40	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-41	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-42	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-43	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-44	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-45	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-46	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-47	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-48	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-49	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-5	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-50	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-51	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-52	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-53	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-54	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-55	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-56	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-58	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-59	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-6	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-60	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-61	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-62	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-63	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-64	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-65	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-66	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-67	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-68	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-69	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-7	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-71	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-72	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-74	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-75	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-76	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-77	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-78	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-79	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-8	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-80	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-81	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-82	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-83	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-84	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-85	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-86	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-87	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-88	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-89	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-9	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-90	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-91	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-92	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-93	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-94	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-95	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-96	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-98	CTX-M beta-lactamase	AMR_Gene_Family
+CTX-M-99	CTX-M beta-lactamase	AMR_Gene_Family
+dfr22	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA1	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA10	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA12	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA13	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA14	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA15	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA15b	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA16	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA17	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA18	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA19	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA20	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA21	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA22	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA23	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA24	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA25	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA26	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA27	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA28	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA29	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA3	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA30	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA31	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA32	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+DfrA34	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA35	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+DfrA36	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+DfrA37	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+DfrA38	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+DfrA39	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA3b	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA5	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA6	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA6 from Proteus mirabilis	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA7	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA8	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrA9	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrB1	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrB2	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrB3	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrB4	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrB5	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrB6	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrB7	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+DfrB9	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrC	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrD	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrE	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrF	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrG	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrI	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+dfrK	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+DHA-1	DHA beta-lactamase	AMR_Gene_Family
+DHA-10	DHA beta-lactamase	AMR_Gene_Family
+DHA-12	DHA beta-lactamase	AMR_Gene_Family
+DHA-13	DHA beta-lactamase	AMR_Gene_Family
+DHA-14	DHA beta-lactamase	AMR_Gene_Family
+DHA-15	DHA beta-lactamase	AMR_Gene_Family
+DHA-16	DHA beta-lactamase	AMR_Gene_Family
+DHA-17	DHA beta-lactamase	AMR_Gene_Family
+DHA-18	DHA beta-lactamase	AMR_Gene_Family
+DHA-19	DHA beta-lactamase	AMR_Gene_Family
+DHA-2	DHA beta-lactamase	AMR_Gene_Family
+DHA-20	DHA beta-lactamase	AMR_Gene_Family
+DHA-21	DHA beta-lactamase	AMR_Gene_Family
+DHA-22	DHA beta-lactamase	AMR_Gene_Family
+DHA-3	DHA beta-lactamase	AMR_Gene_Family
+DHA-5	DHA beta-lactamase	AMR_Gene_Family
+DHA-6	DHA beta-lactamase	AMR_Gene_Family
+DHA-7	DHA beta-lactamase	AMR_Gene_Family
+DHA-9	DHA beta-lactamase	AMR_Gene_Family
+Erm(30)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(31)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+erm(32)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(33)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(34)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(35)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(36)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(37)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(38)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(39)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+erm(40)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(41)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(42)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(43)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(44)v	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+erm(45)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+erm(46)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(47)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(48)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(49)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmA	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmB	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmC	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmD	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmE	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmF	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmG	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmH	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(K)	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmN	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Erm(O)-lrm	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmO-srmA	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmQ	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmR	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmS	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmT	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmU	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmV	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmW	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmX	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ErmY	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+ermZ	Erm 23S ribosomal RNA methyltransferase	AMR_Gene_Family
+Escherichia coli ampC1 beta-lactamase	ampC-type beta-lactamase	AMR_Gene_Family
+Escherichia coli ampC beta-lactamase	ampC-type beta-lactamase	AMR_Gene_Family
+Escherichia coli ampH beta-lactamase	ampC-type beta-lactamase	AMR_Gene_Family
+Escherichia coli folP with mutation conferring resistance to sulfonamides	sulfonamide resistant dihydropteroate synthase folP	AMR_Gene_Family
+GES-1	GES beta-lactamase	AMR_Gene_Family
+GES-10	GES beta-lactamase	AMR_Gene_Family
+GES-11	GES beta-lactamase	AMR_Gene_Family
+GES-12	GES beta-lactamase	AMR_Gene_Family
+GES-13	GES beta-lactamase	AMR_Gene_Family
+GES-14	GES beta-lactamase	AMR_Gene_Family
+GES-15	GES beta-lactamase	AMR_Gene_Family
+GES-16	GES beta-lactamase	AMR_Gene_Family
+GES-17	GES beta-lactamase	AMR_Gene_Family
+GES-18	GES beta-lactamase	AMR_Gene_Family
+GES-19	GES beta-lactamase	AMR_Gene_Family
+GES-2	GES beta-lactamase	AMR_Gene_Family
+GES-20	GES beta-lactamase	AMR_Gene_Family
+GES-21	GES beta-lactamase	AMR_Gene_Family
+GES-22	GES beta-lactamase	AMR_Gene_Family
+GES-23	GES beta-lactamase	AMR_Gene_Family
+GES-24	GES beta-lactamase	AMR_Gene_Family
+GES-26	GES beta-lactamase	AMR_Gene_Family
+GES-3	GES beta-lactamase	AMR_Gene_Family
+GES-4	GES beta-lactamase	AMR_Gene_Family
+GES-5	GES beta-lactamase	AMR_Gene_Family
+GES-6	GES beta-lactamase	AMR_Gene_Family
+GES-7	GES beta-lactamase	AMR_Gene_Family
+GES-8	GES beta-lactamase	AMR_Gene_Family
+GES-9	GES beta-lactamase	AMR_Gene_Family
+GIM-1	GIM beta-lactamase	AMR_Gene_Family
+GIM-2	GIM beta-lactamase	AMR_Gene_Family
+IMP-1	IMP beta-lactamase	AMR_Gene_Family
+IMP-10	IMP beta-lactamase	AMR_Gene_Family
+IMP-11	IMP beta-lactamase	AMR_Gene_Family
+IMP-12	IMP beta-lactamase	AMR_Gene_Family
+IMP-13	IMP beta-lactamase	AMR_Gene_Family
+IMP-14	IMP beta-lactamase	AMR_Gene_Family
+IMP-15	IMP beta-lactamase	AMR_Gene_Family
+IMP-16	IMP beta-lactamase	AMR_Gene_Family
+IMP-18	IMP beta-lactamase	AMR_Gene_Family
+IMP-19	IMP beta-lactamase	AMR_Gene_Family
+IMP-2	IMP beta-lactamase	AMR_Gene_Family
+IMP-20	IMP beta-lactamase	AMR_Gene_Family
+IMP-21	IMP beta-lactamase	AMR_Gene_Family
+IMP-22	IMP beta-lactamase	AMR_Gene_Family
+IMP-24	IMP beta-lactamase	AMR_Gene_Family
+IMP-25	IMP beta-lactamase	AMR_Gene_Family
+IMP-26	IMP beta-lactamase	AMR_Gene_Family
+IMP-27	IMP beta-lactamase	AMR_Gene_Family
+IMP-28	IMP beta-lactamase	AMR_Gene_Family
+IMP-29	IMP beta-lactamase	AMR_Gene_Family
+IMP-3	IMP beta-lactamase	AMR_Gene_Family
+IMP-30	IMP beta-lactamase	AMR_Gene_Family
+IMP-31	IMP beta-lactamase	AMR_Gene_Family
+IMP-32	IMP beta-lactamase	AMR_Gene_Family
+IMP-33	IMP beta-lactamase	AMR_Gene_Family
+IMP-34	IMP beta-lactamase	AMR_Gene_Family
+IMP-35	IMP beta-lactamase	AMR_Gene_Family
+IMP-37	IMP beta-lactamase	AMR_Gene_Family
+IMP-38	IMP beta-lactamase	AMR_Gene_Family
+IMP-4	IMP beta-lactamase	AMR_Gene_Family
+IMP-40	IMP beta-lactamase	AMR_Gene_Family
+IMP-41	IMP beta-lactamase	AMR_Gene_Family
+IMP-42	IMP beta-lactamase	AMR_Gene_Family
+IMP-43	IMP beta-lactamase	AMR_Gene_Family
+IMP-44	IMP beta-lactamase	AMR_Gene_Family
+IMP-45	IMP beta-lactamase	AMR_Gene_Family
+IMP-48	IMP beta-lactamase	AMR_Gene_Family
+IMP-49	IMP beta-lactamase	AMR_Gene_Family
+IMP-5	IMP beta-lactamase	AMR_Gene_Family
+IMP-51	IMP beta-lactamase	AMR_Gene_Family
+IMP-52	IMP beta-lactamase	AMR_Gene_Family
+IMP-55	IMP beta-lactamase	AMR_Gene_Family
+IMP-56	IMP beta-lactamase	AMR_Gene_Family
+IMP-6	IMP beta-lactamase	AMR_Gene_Family
+IMP-68	IMP beta-lactamase	AMR_Gene_Family
+IMP-7	IMP beta-lactamase	AMR_Gene_Family
+IMP-8	IMP beta-lactamase	AMR_Gene_Family
+IMP-9	IMP beta-lactamase	AMR_Gene_Family
+KPC-10	KPC beta-lactamase	AMR_Gene_Family
+KPC-11	KPC beta-lactamase	AMR_Gene_Family
+KPC-12	KPC beta-lactamase	AMR_Gene_Family
+KPC-13	KPC beta-lactamase	AMR_Gene_Family
+KPC-14	KPC beta-lactamase	AMR_Gene_Family
+KPC-15	KPC beta-lactamase	AMR_Gene_Family
+KPC-16	KPC beta-lactamase	AMR_Gene_Family
+KPC-17	KPC beta-lactamase	AMR_Gene_Family
+KPC-18	KPC beta-lactamase	AMR_Gene_Family
+KPC-19	KPC beta-lactamase	AMR_Gene_Family
+KPC-2	KPC beta-lactamase	AMR_Gene_Family
+KPC-22	KPC beta-lactamase	AMR_Gene_Family
+KPC-23	KPC beta-lactamase	AMR_Gene_Family
+KPC-24	KPC beta-lactamase	AMR_Gene_Family
+KPC-25	KPC beta-lactamase	AMR_Gene_Family
+KPC-26	KPC beta-lactamase	AMR_Gene_Family
+KPC-27	KPC beta-lactamase	AMR_Gene_Family
+KPC-28	KPC beta-lactamase	AMR_Gene_Family
+KPC-29	KPC beta-lactamase	AMR_Gene_Family
+KPC-3	KPC beta-lactamase	AMR_Gene_Family
+KPC-30	KPC beta-lactamase	AMR_Gene_Family
+KPC-31	KPC beta-lactamase	AMR_Gene_Family
+KPC-32	KPC beta-lactamase	AMR_Gene_Family
+KPC-33	KPC beta-lactamase	AMR_Gene_Family
+KPC-34	KPC beta-lactamase	AMR_Gene_Family
+KPC-35	KPC beta-lactamase	AMR_Gene_Family
+KPC-36	KPC beta-lactamase	AMR_Gene_Family
+KPC-37	KPC beta-lactamase	AMR_Gene_Family
+KPC-38	KPC beta-lactamase	AMR_Gene_Family
+KPC-39	KPC beta-lactamase	AMR_Gene_Family
+KPC-4	KPC beta-lactamase	AMR_Gene_Family
+KPC-40	KPC beta-lactamase	AMR_Gene_Family
+KPC-41	KPC beta-lactamase	AMR_Gene_Family
+KPC-42	KPC beta-lactamase	AMR_Gene_Family
+KPC-43	KPC beta-lactamase	AMR_Gene_Family
+KPC-45	KPC beta-lactamase	AMR_Gene_Family
+KPC-46	KPC beta-lactamase	AMR_Gene_Family
+KPC-49	KPC beta-lactamase	AMR_Gene_Family
+KPC-5	KPC beta-lactamase	AMR_Gene_Family
+KPC-50	KPC beta-lactamase	AMR_Gene_Family
+KPC-51	KPC beta-lactamase	AMR_Gene_Family
+KPC-52	KPC beta-lactamase	AMR_Gene_Family
+KPC-54	KPC beta-lactamase	AMR_Gene_Family
+KPC-55	KPC beta-lactamase	AMR_Gene_Family
+KPC-56	KPC beta-lactamase	AMR_Gene_Family
+KPC-57	KPC beta-lactamase	AMR_Gene_Family
+KPC-6	KPC beta-lactamase	AMR_Gene_Family
+KPC-7	KPC beta-lactamase	AMR_Gene_Family
+KPC-8	KPC beta-lactamase	AMR_Gene_Family
+KPC-9	KPC beta-lactamase	AMR_Gene_Family
+Laribacter hongkongensis ampC beta-lactamase	ampC-type beta-lactamase	AMR_Gene_Family
+MCR-1.1	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-1.10	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-1.11	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-1.12	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-1.13	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-1.2	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-1.3	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-1.4	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-1.5	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-1.6	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-1.7	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-1.8	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-1.9	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-2.1	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-2.2	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-3.1	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-3.10	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-3.11	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-3.12	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-3.2	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-3.3	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-3.4	MCR phosphoethanolamine transferase	AMR_Gene_Family
+mcr-3.41	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-3.5	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-3.6	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-3.7	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-3.8	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-3.9	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-4.1	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-4.2	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-4.3	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-4.4	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-4.5	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-5.1	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-5.2	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-6.1	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-7.1	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-8.1	MCR phosphoethanolamine transferase	AMR_Gene_Family
+MCR-9.1	MCR phosphoethanolamine transferase	AMR_Gene_Family
+mecA	methicillin resistant PBP2	AMR_Gene_Family
+mecB	methicillin resistant PBP2	AMR_Gene_Family
+mecC	methicillin resistant PBP2	AMR_Gene_Family
+mecC-type BlaZ	blaZ beta-lactamase	AMR_Gene_Family
+MecC-type methicillin resistance repressor MecI	methicillin resistant PBP2	AMR_Gene_Family
+mecD	methicillin resistant PBP2	AMR_Gene_Family
+mecI	methicillin resistant PBP2	AMR_Gene_Family
+mecR1	methicillin resistant PBP2	AMR_Gene_Family
+mfd	quinolone resistance protein (qnr)	AMR_Gene_Family
+mfpA	quinolone resistance protein (qnr)	AMR_Gene_Family
+MIR-1	MIR beta-lactamase	AMR_Gene_Family
+MIR-10	MIR beta-lactamase	AMR_Gene_Family
+MIR-11	MIR beta-lactamase	AMR_Gene_Family
+MIR-12	MIR beta-lactamase	AMR_Gene_Family
+MIR-13	MIR beta-lactamase	AMR_Gene_Family
+MIR-14	MIR beta-lactamase	AMR_Gene_Family
+MIR-15	MIR beta-lactamase	AMR_Gene_Family
+MIR-16	MIR beta-lactamase	AMR_Gene_Family
+MIR-17	MIR beta-lactamase	AMR_Gene_Family
+MIR-2	MIR beta-lactamase	AMR_Gene_Family
+MIR-23	MIR beta-lactamase	AMR_Gene_Family
+MIR-3	MIR beta-lactamase	AMR_Gene_Family
+MIR-4	MIR beta-lactamase	AMR_Gene_Family
+MIR-5	MIR beta-lactamase	AMR_Gene_Family
+MIR-6	MIR beta-lactamase	AMR_Gene_Family
+MIR-9	MIR beta-lactamase	AMR_Gene_Family
+NDM-1	NDM beta-lactamase	AMR_Gene_Family
+NDM-10	NDM beta-lactamase	AMR_Gene_Family
+NDM-11	NDM beta-lactamase	AMR_Gene_Family
+NDM-12	NDM beta-lactamase	AMR_Gene_Family
+NDM-13	NDM beta-lactamase	AMR_Gene_Family
+NDM-14	NDM beta-lactamase	AMR_Gene_Family
+NDM-15	NDM beta-lactamase	AMR_Gene_Family
+NDM-16	NDM beta-lactamase	AMR_Gene_Family
+NDM-17	NDM beta-lactamase	AMR_Gene_Family
+NDM-18	NDM beta-lactamase	AMR_Gene_Family
+NDM-19	NDM beta-lactamase	AMR_Gene_Family
+NDM-2	NDM beta-lactamase	AMR_Gene_Family
+NDM-20	NDM beta-lactamase	AMR_Gene_Family
+NDM-21	NDM beta-lactamase	AMR_Gene_Family
+NDM-22	NDM beta-lactamase	AMR_Gene_Family
+NDM-23	NDM beta-lactamase	AMR_Gene_Family
+NDM-24	NDM beta-lactamase	AMR_Gene_Family
+NDM-25	NDM beta-lactamase	AMR_Gene_Family
+NDM-27	NDM beta-lactamase	AMR_Gene_Family
+NDM-28	NDM beta-lactamase	AMR_Gene_Family
+NDM-29	NDM beta-lactamase	AMR_Gene_Family
+NDM-3	NDM beta-lactamase	AMR_Gene_Family
+NDM-4	NDM beta-lactamase	AMR_Gene_Family
+NDM-5	NDM beta-lactamase	AMR_Gene_Family
+NDM-6	NDM beta-lactamase	AMR_Gene_Family
+NDM-7	NDM beta-lactamase	AMR_Gene_Family
+NDM-8	NDM beta-lactamase	AMR_Gene_Family
+NDM-9	NDM beta-lactamase	AMR_Gene_Family
+Neisseria gonorrhoeae folP with mutation conferring resistance to sulfonamides	sulfonamide resistant dihydropteroate synthase folP	AMR_Gene_Family
+OXA-1	OXA beta-lactamase	AMR_Gene_Family
+OXA-10	OXA beta-lactamase	AMR_Gene_Family
+OXA-100	OXA beta-lactamase	AMR_Gene_Family
+OXA-101	OXA beta-lactamase	AMR_Gene_Family
+OXA-103	OXA beta-lactamase	AMR_Gene_Family
+OXA-104	OXA beta-lactamase	AMR_Gene_Family
+OXA-106	OXA beta-lactamase	AMR_Gene_Family
+OXA-107	OXA beta-lactamase	AMR_Gene_Family
+OXA-108	OXA beta-lactamase	AMR_Gene_Family
+OXA-109	OXA beta-lactamase	AMR_Gene_Family
+OXA-11	OXA beta-lactamase	AMR_Gene_Family
+OXA-110	OXA beta-lactamase	AMR_Gene_Family
+OXA-111	OXA beta-lactamase	AMR_Gene_Family
+OXA-112	OXA beta-lactamase	AMR_Gene_Family
+OXA-113	OXA beta-lactamase	AMR_Gene_Family
+OXA-114a	OXA beta-lactamase	AMR_Gene_Family
+OXA-115	OXA beta-lactamase	AMR_Gene_Family
+OXA-116	OXA beta-lactamase	AMR_Gene_Family
+OXA-117	OXA beta-lactamase	AMR_Gene_Family
+OXA-118	OXA beta-lactamase	AMR_Gene_Family
+OXA-119	OXA beta-lactamase	AMR_Gene_Family
+OXA-12	OXA beta-lactamase	AMR_Gene_Family
+OXA-120	OXA beta-lactamase	AMR_Gene_Family
+OXA-121	OXA beta-lactamase	AMR_Gene_Family
+OXA-122	OXA beta-lactamase	AMR_Gene_Family
+OXA-123	OXA beta-lactamase	AMR_Gene_Family
+OXA-124	OXA beta-lactamase	AMR_Gene_Family
+OXA-125	OXA beta-lactamase	AMR_Gene_Family
+OXA-126	OXA beta-lactamase	AMR_Gene_Family
+OXA-127	OXA beta-lactamase	AMR_Gene_Family
+OXA-128	OXA beta-lactamase	AMR_Gene_Family
+OXA-129	OXA beta-lactamase	AMR_Gene_Family
+OXA-13	OXA beta-lactamase	AMR_Gene_Family
+OXA-130	OXA beta-lactamase	AMR_Gene_Family
+OXA-131	OXA beta-lactamase	AMR_Gene_Family
+OXA-132	OXA beta-lactamase	AMR_Gene_Family
+OXA-133	OXA beta-lactamase	AMR_Gene_Family
+OXA-134	OXA beta-lactamase	AMR_Gene_Family
+OXA-136	OXA beta-lactamase	AMR_Gene_Family
+OXA-137	OXA beta-lactamase	AMR_Gene_Family
+OXA-138	OXA beta-lactamase	AMR_Gene_Family
+OXA-139	OXA beta-lactamase	AMR_Gene_Family
+OXA-14	OXA beta-lactamase	AMR_Gene_Family
+OXA-140	OXA beta-lactamase	AMR_Gene_Family
+OXA-141	OXA beta-lactamase	AMR_Gene_Family
+OXA-142	OXA beta-lactamase	AMR_Gene_Family
+OXA-143	OXA beta-lactamase	AMR_Gene_Family
+OXA-144	OXA beta-lactamase	AMR_Gene_Family
+OXA-145	OXA beta-lactamase	AMR_Gene_Family
+OXA-146	OXA beta-lactamase	AMR_Gene_Family
+OXA-147	OXA beta-lactamase	AMR_Gene_Family
+OXA-148	OXA beta-lactamase	AMR_Gene_Family
+OXA-149	OXA beta-lactamase	AMR_Gene_Family
+OXA-15	OXA beta-lactamase	AMR_Gene_Family
+OXA-150	OXA beta-lactamase	AMR_Gene_Family
+OXA-151	OXA beta-lactamase	AMR_Gene_Family
+OXA-152	OXA beta-lactamase	AMR_Gene_Family
+OXA-153	OXA beta-lactamase	AMR_Gene_Family
+OXA-154	OXA beta-lactamase	AMR_Gene_Family
+OXA-155	OXA beta-lactamase	AMR_Gene_Family
+OXA-156	OXA beta-lactamase	AMR_Gene_Family
+OXA-157	OXA beta-lactamase	AMR_Gene_Family
+OXA-158	OXA beta-lactamase	AMR_Gene_Family
+OXA-16	OXA beta-lactamase	AMR_Gene_Family
+OXA-160	OXA beta-lactamase	AMR_Gene_Family
+OXA-161	OXA beta-lactamase	AMR_Gene_Family
+OXA-162	OXA beta-lactamase	AMR_Gene_Family
+OXA-163	OXA beta-lactamase	AMR_Gene_Family
+OXA-164	OXA beta-lactamase	AMR_Gene_Family
+OXA-165	OXA beta-lactamase	AMR_Gene_Family
+OXA-166	OXA beta-lactamase	AMR_Gene_Family
+OXA-167	OXA beta-lactamase	AMR_Gene_Family
+OXA-168	OXA beta-lactamase	AMR_Gene_Family
+OXA-169	OXA beta-lactamase	AMR_Gene_Family
+OXA-17	OXA beta-lactamase	AMR_Gene_Family
+OXA-170	OXA beta-lactamase	AMR_Gene_Family
+OXA-171	OXA beta-lactamase	AMR_Gene_Family
+OXA-172	OXA beta-lactamase	AMR_Gene_Family
+OXA-173	OXA beta-lactamase	AMR_Gene_Family
+OXA-174	OXA beta-lactamase	AMR_Gene_Family
+OXA-175	OXA beta-lactamase	AMR_Gene_Family
+OXA-176	OXA beta-lactamase	AMR_Gene_Family
+OXA-177	OXA beta-lactamase	AMR_Gene_Family
+OXA-178	OXA beta-lactamase	AMR_Gene_Family
+OXA-179	OXA beta-lactamase	AMR_Gene_Family
+OXA-18	OXA beta-lactamase	AMR_Gene_Family
+OXA-180	OXA beta-lactamase	AMR_Gene_Family
+OXA-181	OXA beta-lactamase	AMR_Gene_Family
+OXA-182	OXA beta-lactamase	AMR_Gene_Family
+OXA-183	OXA beta-lactamase	AMR_Gene_Family
+OXA-184	OXA beta-lactamase	AMR_Gene_Family
+OXA-185	OXA beta-lactamase	AMR_Gene_Family
+OXA-19	OXA beta-lactamase	AMR_Gene_Family
+OXA-192	OXA beta-lactamase	AMR_Gene_Family
+OXA-194	OXA beta-lactamase	AMR_Gene_Family
+OXA-195	OXA beta-lactamase	AMR_Gene_Family
+OXA-196	OXA beta-lactamase	AMR_Gene_Family
+OXA-197	OXA beta-lactamase	AMR_Gene_Family
+OXA-198	OXA beta-lactamase	AMR_Gene_Family
+OXA-199	OXA beta-lactamase	AMR_Gene_Family
+OXA-2	OXA beta-lactamase	AMR_Gene_Family
+OXA-20	OXA beta-lactamase	AMR_Gene_Family
+OXA-200	OXA beta-lactamase	AMR_Gene_Family
+OXA-201	OXA beta-lactamase	AMR_Gene_Family
+OXA-202	OXA beta-lactamase	AMR_Gene_Family
+OXA-203	OXA beta-lactamase	AMR_Gene_Family
+OXA-204	OXA beta-lactamase	AMR_Gene_Family
+OXA-205	OXA beta-lactamase	AMR_Gene_Family
+OXA-206	OXA beta-lactamase	AMR_Gene_Family
+OXA-207	OXA beta-lactamase	AMR_Gene_Family
+OXA-208	OXA beta-lactamase	AMR_Gene_Family
+OXA-209	OXA beta-lactamase	AMR_Gene_Family
+OXA-21	OXA beta-lactamase	AMR_Gene_Family
+OXA-210	OXA beta-lactamase	AMR_Gene_Family
+OXA-211	OXA beta-lactamase	AMR_Gene_Family
+OXA-212	OXA beta-lactamase	AMR_Gene_Family
+OXA-213	OXA beta-lactamase	AMR_Gene_Family
+OXA-214	OXA beta-lactamase	AMR_Gene_Family
+OXA-215	OXA beta-lactamase	AMR_Gene_Family
+OXA-216	OXA beta-lactamase	AMR_Gene_Family
+OXA-217	OXA beta-lactamase	AMR_Gene_Family
+OXA-219	OXA beta-lactamase	AMR_Gene_Family
+OXA-22	OXA beta-lactamase	AMR_Gene_Family
+OXA-223	OXA beta-lactamase	AMR_Gene_Family
+OXA-224	OXA beta-lactamase	AMR_Gene_Family
+OXA-225	OXA beta-lactamase	AMR_Gene_Family
+OXA-226	OXA beta-lactamase	AMR_Gene_Family
+OXA-228	OXA beta-lactamase	AMR_Gene_Family
+OXA-229	OXA beta-lactamase	AMR_Gene_Family
+OXA-23	OXA beta-lactamase	AMR_Gene_Family
+OXA-230	OXA beta-lactamase	AMR_Gene_Family
+OXA-231	OXA beta-lactamase	AMR_Gene_Family
+OXA-232	OXA beta-lactamase	AMR_Gene_Family
+OXA-233	OXA beta-lactamase	AMR_Gene_Family
+OXA-234	OXA beta-lactamase	AMR_Gene_Family
+OXA-235	OXA beta-lactamase	AMR_Gene_Family
+OXA-236	OXA beta-lactamase	AMR_Gene_Family
+OXA-237	OXA beta-lactamase	AMR_Gene_Family
+OXA-239	OXA beta-lactamase	AMR_Gene_Family
+OXA-24	OXA beta-lactamase	AMR_Gene_Family
+OXA-240	OXA beta-lactamase	AMR_Gene_Family
+OXA-241	OXA beta-lactamase	AMR_Gene_Family
+OXA-242	OXA beta-lactamase	AMR_Gene_Family
+OXA-243	OXA beta-lactamase	AMR_Gene_Family
+OXA-244	OXA beta-lactamase	AMR_Gene_Family
+OXA-245	OXA beta-lactamase	AMR_Gene_Family
+OXA-246	OXA beta-lactamase	AMR_Gene_Family
+OXA-247	OXA beta-lactamase	AMR_Gene_Family
+OXA-248	OXA beta-lactamase	AMR_Gene_Family
+OXA-249	OXA beta-lactamase	AMR_Gene_Family
+OXA-25	OXA beta-lactamase	AMR_Gene_Family
+OXA-250	OXA beta-lactamase	AMR_Gene_Family
+OXA-251	OXA beta-lactamase	AMR_Gene_Family
+OXA-252	OXA beta-lactamase	AMR_Gene_Family
+OXA-253	OXA beta-lactamase	AMR_Gene_Family
+OXA-254	OXA beta-lactamase	AMR_Gene_Family
+OXA-255	OXA beta-lactamase	AMR_Gene_Family
+OXA-256	OXA beta-lactamase	AMR_Gene_Family
+OXA-257	OXA beta-lactamase	AMR_Gene_Family
+OXA-258	OXA beta-lactamase	AMR_Gene_Family
+OXA-259	OXA beta-lactamase	AMR_Gene_Family
+OXA-26	OXA beta-lactamase	AMR_Gene_Family
+OXA-260	OXA beta-lactamase	AMR_Gene_Family
+OXA-261	OXA beta-lactamase	AMR_Gene_Family
+OXA-262	OXA beta-lactamase	AMR_Gene_Family
+OXA-263	OXA beta-lactamase	AMR_Gene_Family
+OXA-264	OXA beta-lactamase	AMR_Gene_Family
+OXA-265	OXA beta-lactamase	AMR_Gene_Family
+OXA-266	OXA beta-lactamase	AMR_Gene_Family
+OXA-267	OXA beta-lactamase	AMR_Gene_Family
+OXA-268	OXA beta-lactamase	AMR_Gene_Family
+OXA-269	OXA beta-lactamase	AMR_Gene_Family
+OXA-27	OXA beta-lactamase	AMR_Gene_Family
+OXA-270	OXA beta-lactamase	AMR_Gene_Family
+OXA-271	OXA beta-lactamase	AMR_Gene_Family
+OXA-272	OXA beta-lactamase	AMR_Gene_Family
+OXA-273	OXA beta-lactamase	AMR_Gene_Family
+OXA-274	OXA beta-lactamase	AMR_Gene_Family
+OXA-275	OXA beta-lactamase	AMR_Gene_Family
+OXA-276	OXA beta-lactamase	AMR_Gene_Family
+OXA-277	OXA beta-lactamase	AMR_Gene_Family
+OXA-278	OXA beta-lactamase	AMR_Gene_Family
+OXA-279	OXA beta-lactamase	AMR_Gene_Family
+OXA-28	OXA beta-lactamase	AMR_Gene_Family
+OXA-280	OXA beta-lactamase	AMR_Gene_Family
+OXA-281	OXA beta-lactamase	AMR_Gene_Family
+OXA-282	OXA beta-lactamase	AMR_Gene_Family
+OXA-283	OXA beta-lactamase	AMR_Gene_Family
+OXA-284	OXA beta-lactamase	AMR_Gene_Family
+OXA-285	OXA beta-lactamase	AMR_Gene_Family
+OXA-286	OXA beta-lactamase	AMR_Gene_Family
+OXA-287	OXA beta-lactamase	AMR_Gene_Family
+OXA-288	OXA beta-lactamase	AMR_Gene_Family
+OXA-29	OXA beta-lactamase	AMR_Gene_Family
+OXA-291	OXA beta-lactamase	AMR_Gene_Family
+OXA-292	OXA beta-lactamase	AMR_Gene_Family
+OXA-293	OXA beta-lactamase	AMR_Gene_Family
+OXA-294	OXA beta-lactamase	AMR_Gene_Family
+OXA-295	OXA beta-lactamase	AMR_Gene_Family
+OXA-296	OXA beta-lactamase	AMR_Gene_Family
+OXA-297	OXA beta-lactamase	AMR_Gene_Family
+OXA-298	OXA beta-lactamase	AMR_Gene_Family
+OXA-299	OXA beta-lactamase	AMR_Gene_Family
+OXA-3	OXA beta-lactamase	AMR_Gene_Family
+OXA-300	OXA beta-lactamase	AMR_Gene_Family
+OXA-301	OXA beta-lactamase	AMR_Gene_Family
+OXA-302	OXA beta-lactamase	AMR_Gene_Family
+OXA-303	OXA beta-lactamase	AMR_Gene_Family
+OXA-304	OXA beta-lactamase	AMR_Gene_Family
+OXA-305	OXA beta-lactamase	AMR_Gene_Family
+OXA-306	OXA beta-lactamase	AMR_Gene_Family
+OXA-308	OXA beta-lactamase	AMR_Gene_Family
+OXA-309	OXA beta-lactamase	AMR_Gene_Family
+OXA-31	OXA beta-lactamase	AMR_Gene_Family
+OXA-312	OXA beta-lactamase	AMR_Gene_Family
+OXA-313	OXA beta-lactamase	AMR_Gene_Family
+OXA-314	OXA beta-lactamase	AMR_Gene_Family
+OXA-315	OXA beta-lactamase	AMR_Gene_Family
+OXA-316	OXA beta-lactamase	AMR_Gene_Family
+OXA-317	OXA beta-lactamase	AMR_Gene_Family
+OXA-32	OXA beta-lactamase	AMR_Gene_Family
+OXA-320	OXA beta-lactamase	AMR_Gene_Family
+OXA-322	OXA beta-lactamase	AMR_Gene_Family
+OXA-323	OXA beta-lactamase	AMR_Gene_Family
+OXA-324	OXA beta-lactamase	AMR_Gene_Family
+OXA-325	OXA beta-lactamase	AMR_Gene_Family
+OXA-326	OXA beta-lactamase	AMR_Gene_Family
+OXA-327	OXA beta-lactamase	AMR_Gene_Family
+OXA-328	OXA beta-lactamase	AMR_Gene_Family
+OXA-329	OXA beta-lactamase	AMR_Gene_Family
+OXA-33	OXA beta-lactamase	AMR_Gene_Family
+OXA-330	OXA beta-lactamase	AMR_Gene_Family
+OXA-331	OXA beta-lactamase	AMR_Gene_Family
+OXA-332	OXA beta-lactamase	AMR_Gene_Family
+OXA-333	OXA beta-lactamase	AMR_Gene_Family
+OXA-334	OXA beta-lactamase	AMR_Gene_Family
+OXA-335	OXA beta-lactamase	AMR_Gene_Family
+OXA-336	OXA beta-lactamase	AMR_Gene_Family
+OXA-337	OXA beta-lactamase	AMR_Gene_Family
+OXA-338	OXA beta-lactamase	AMR_Gene_Family
+OXA-339	OXA beta-lactamase	AMR_Gene_Family
+OXA-34	OXA beta-lactamase	AMR_Gene_Family
+OXA-340	OXA beta-lactamase	AMR_Gene_Family
+OXA-341	OXA beta-lactamase	AMR_Gene_Family
+OXA-342	OXA beta-lactamase	AMR_Gene_Family
+OXA-343	OXA beta-lactamase	AMR_Gene_Family
+OXA-344	OXA beta-lactamase	AMR_Gene_Family
+OXA-345	OXA beta-lactamase	AMR_Gene_Family
+OXA-346	OXA beta-lactamase	AMR_Gene_Family
+OXA-347	OXA beta-lactamase	AMR_Gene_Family
+OXA-348	OXA beta-lactamase	AMR_Gene_Family
+OXA-349	OXA beta-lactamase	AMR_Gene_Family
+OXA-35	OXA beta-lactamase	AMR_Gene_Family
+OXA-350	OXA beta-lactamase	AMR_Gene_Family
+OXA-351	OXA beta-lactamase	AMR_Gene_Family
+OXA-352	OXA beta-lactamase	AMR_Gene_Family
+OXA-353	OXA beta-lactamase	AMR_Gene_Family
+OXA-354	OXA beta-lactamase	AMR_Gene_Family
+OXA-355	OXA beta-lactamase	AMR_Gene_Family
+OXA-356	OXA beta-lactamase	AMR_Gene_Family
+OXA-357	OXA beta-lactamase	AMR_Gene_Family
+OXA-358	OXA beta-lactamase	AMR_Gene_Family
+OXA-359	OXA beta-lactamase	AMR_Gene_Family
+OXA-36	OXA beta-lactamase	AMR_Gene_Family
+OXA-360	OXA beta-lactamase	AMR_Gene_Family
+OXA-361	OXA beta-lactamase	AMR_Gene_Family
+OXA-362	OXA beta-lactamase	AMR_Gene_Family
+OXA-363	OXA beta-lactamase	AMR_Gene_Family
+OXA-364	OXA beta-lactamase	AMR_Gene_Family
+OXA-365	OXA beta-lactamase	AMR_Gene_Family
+OXA-366	OXA beta-lactamase	AMR_Gene_Family
+OXA-368	OXA beta-lactamase	AMR_Gene_Family
+OXA-37	OXA beta-lactamase	AMR_Gene_Family
+OXA-370	OXA beta-lactamase	AMR_Gene_Family
+OXA-371	OXA beta-lactamase	AMR_Gene_Family
+OXA-372	OXA beta-lactamase	AMR_Gene_Family
+OXA-373	OXA beta-lactamase	AMR_Gene_Family
+OXA-374	OXA beta-lactamase	AMR_Gene_Family
+OXA-375	OXA beta-lactamase	AMR_Gene_Family
+OXA-376	OXA beta-lactamase	AMR_Gene_Family
+OXA-377	OXA beta-lactamase	AMR_Gene_Family
+OXA-378	OXA beta-lactamase	AMR_Gene_Family
+OXA-379	OXA beta-lactamase	AMR_Gene_Family
+OXA-380	OXA beta-lactamase	AMR_Gene_Family
+OXA-381	OXA beta-lactamase	AMR_Gene_Family
+OXA-382	OXA beta-lactamase	AMR_Gene_Family
+OXA-383	OXA beta-lactamase	AMR_Gene_Family
+OXA-384	OXA beta-lactamase	AMR_Gene_Family
+OXA-385	OXA beta-lactamase	AMR_Gene_Family
+OXA-386	OXA beta-lactamase	AMR_Gene_Family
+OXA-387	OXA beta-lactamase	AMR_Gene_Family
+OXA-388	OXA beta-lactamase	AMR_Gene_Family
+OXA-389	OXA beta-lactamase	AMR_Gene_Family
+OXA-390	OXA beta-lactamase	AMR_Gene_Family
+OXA-391	OXA beta-lactamase	AMR_Gene_Family
+OXA-392	OXA beta-lactamase	AMR_Gene_Family
+OXA-397	OXA beta-lactamase	AMR_Gene_Family
+OXA-398	OXA beta-lactamase	AMR_Gene_Family
+OXA-4	OXA beta-lactamase	AMR_Gene_Family
+OXA-400	OXA beta-lactamase	AMR_Gene_Family
+OXA-401	OXA beta-lactamase	AMR_Gene_Family
+OXA-402	OXA beta-lactamase	AMR_Gene_Family
+OXA-403	OXA beta-lactamase	AMR_Gene_Family
+OXA-404	OXA beta-lactamase	AMR_Gene_Family
+OXA-405	OXA beta-lactamase	AMR_Gene_Family
+OXA-406	OXA beta-lactamase	AMR_Gene_Family
+OXA-407	OXA beta-lactamase	AMR_Gene_Family
+OXA-408	OXA beta-lactamase	AMR_Gene_Family
+OXA-409	OXA beta-lactamase	AMR_Gene_Family
+OXA-411	OXA beta-lactamase	AMR_Gene_Family
+OXA-412	OXA beta-lactamase	AMR_Gene_Family
+OXA-413	OXA beta-lactamase	AMR_Gene_Family
+OXA-414	OXA beta-lactamase	AMR_Gene_Family
+OXA-415	OXA beta-lactamase	AMR_Gene_Family
+OXA-416	OXA beta-lactamase	AMR_Gene_Family
+OXA-417	OXA beta-lactamase	AMR_Gene_Family
+OXA-418	OXA beta-lactamase	AMR_Gene_Family
+OXA-42	OXA beta-lactamase	AMR_Gene_Family
+OXA-420	OXA beta-lactamase	AMR_Gene_Family
+OXA-421	OXA beta-lactamase	AMR_Gene_Family
+OXA-422	OXA beta-lactamase	AMR_Gene_Family
+OXA-423	OXA beta-lactamase	AMR_Gene_Family
+OXA-424	OXA beta-lactamase	AMR_Gene_Family
+OXA-425	OXA beta-lactamase	AMR_Gene_Family
+OXA-426	OXA beta-lactamase	AMR_Gene_Family
+OXA-427	OXA beta-lactamase	AMR_Gene_Family
+OXA-429	OXA beta-lactamase	AMR_Gene_Family
+OXA-43	OXA beta-lactamase	AMR_Gene_Family
+OXA-430	OXA beta-lactamase	AMR_Gene_Family
+OXA-431	OXA beta-lactamase	AMR_Gene_Family
+OXA-432	OXA beta-lactamase	AMR_Gene_Family
+OXA-433	OXA beta-lactamase	AMR_Gene_Family
+OXA-435	OXA beta-lactamase	AMR_Gene_Family
+OXA-436	OXA beta-lactamase	AMR_Gene_Family
+OXA-437	OXA beta-lactamase	AMR_Gene_Family
+OXA-438	OXA beta-lactamase	AMR_Gene_Family
+OXA-439	OXA beta-lactamase	AMR_Gene_Family
+OXA-440	OXA beta-lactamase	AMR_Gene_Family
+OXA-441	OXA beta-lactamase	AMR_Gene_Family
+OXA-442	OXA beta-lactamase	AMR_Gene_Family
+OXA-443	OXA beta-lactamase	AMR_Gene_Family
+OXA-444	OXA beta-lactamase	AMR_Gene_Family
+OXA-446	OXA beta-lactamase	AMR_Gene_Family
+OXA-447	OXA beta-lactamase	AMR_Gene_Family
+OXA-448	OXA beta-lactamase	AMR_Gene_Family
+OXA-449	OXA beta-lactamase	AMR_Gene_Family
+OXA-45	OXA beta-lactamase	AMR_Gene_Family
+OXA-450	OXA beta-lactamase	AMR_Gene_Family
+OXA-451	OXA beta-lactamase	AMR_Gene_Family
+OXA-452	OXA beta-lactamase	AMR_Gene_Family
+OXA-453	OXA beta-lactamase	AMR_Gene_Family
+OXA-454	OXA beta-lactamase	AMR_Gene_Family
+OXA-455	OXA beta-lactamase	AMR_Gene_Family
+OXA-457	OXA beta-lactamase	AMR_Gene_Family
+OXA-458	OXA beta-lactamase	AMR_Gene_Family
+OXA-459	OXA beta-lactamase	AMR_Gene_Family
+OXA-46	OXA beta-lactamase	AMR_Gene_Family
+OXA-460	OXA beta-lactamase	AMR_Gene_Family
+OXA-461	OXA beta-lactamase	AMR_Gene_Family
+OXA-464	OXA beta-lactamase	AMR_Gene_Family
+OXA-465	OXA beta-lactamase	AMR_Gene_Family
+OXA-466	OXA beta-lactamase	AMR_Gene_Family
+OXA-47	OXA beta-lactamase	AMR_Gene_Family
+OXA-470	OXA beta-lactamase	AMR_Gene_Family
+OXA-471	OXA beta-lactamase	AMR_Gene_Family
+OXA-472	OXA beta-lactamase	AMR_Gene_Family
+OXA-473	OXA beta-lactamase	AMR_Gene_Family
+OXA-474	OXA beta-lactamase	AMR_Gene_Family
+OXA-475	OXA beta-lactamase	AMR_Gene_Family
+OXA-476	OXA beta-lactamase	AMR_Gene_Family
+OXA-477	OXA beta-lactamase	AMR_Gene_Family
+OXA-478	OXA beta-lactamase	AMR_Gene_Family
+OXA-479	OXA beta-lactamase	AMR_Gene_Family
+OXA-48	OXA beta-lactamase	AMR_Gene_Family
+OXA-480	OXA beta-lactamase	AMR_Gene_Family
+OXA-482	OXA beta-lactamase	AMR_Gene_Family
+OXA-483	OXA beta-lactamase	AMR_Gene_Family
+OXA-484	OXA beta-lactamase	AMR_Gene_Family
+OXA-485	OXA beta-lactamase	AMR_Gene_Family
+OXA-486	OXA beta-lactamase	AMR_Gene_Family
+OXA-488	OXA beta-lactamase	AMR_Gene_Family
+OXA-49	OXA beta-lactamase	AMR_Gene_Family
+OXA-496	OXA beta-lactamase	AMR_Gene_Family
+OXA-499	OXA beta-lactamase	AMR_Gene_Family
+OXA-5	OXA beta-lactamase	AMR_Gene_Family
+OXA-50	OXA beta-lactamase	AMR_Gene_Family
+OXA-51	OXA beta-lactamase	AMR_Gene_Family
+OXA-53	OXA beta-lactamase	AMR_Gene_Family
+OXA-535	OXA beta-lactamase	AMR_Gene_Family
+OXA-539	OXA beta-lactamase	AMR_Gene_Family
+OXA-54	OXA beta-lactamase	AMR_Gene_Family
+OXA-540	OXA beta-lactamase	AMR_Gene_Family
+OXA-541	OXA beta-lactamase	AMR_Gene_Family
+OXA-543	OXA beta-lactamase	AMR_Gene_Family
+OXA-544	OXA beta-lactamase	AMR_Gene_Family
+OXA-55	OXA beta-lactamase	AMR_Gene_Family
+OXA-56	OXA beta-lactamase	AMR_Gene_Family
+OXA-57	OXA beta-lactamase	AMR_Gene_Family
+OXA-570	OXA beta-lactamase	AMR_Gene_Family
+OXA-571	OXA beta-lactamase	AMR_Gene_Family
+OXA-573	OXA beta-lactamase	AMR_Gene_Family
+OXA-58	OXA beta-lactamase	AMR_Gene_Family
+OXA-59	OXA beta-lactamase	AMR_Gene_Family
+OXA-60	OXA beta-lactamase	AMR_Gene_Family
+OXA-61	OXA beta-lactamase	AMR_Gene_Family
+OXA-62	OXA beta-lactamase	AMR_Gene_Family
+OXA-63	OXA beta-lactamase	AMR_Gene_Family
+OXA-64	OXA beta-lactamase	AMR_Gene_Family
+OXA-641	OXA beta-lactamase	AMR_Gene_Family
+OXA-646	OXA beta-lactamase	AMR_Gene_Family
+oxa-647	OXA beta-lactamase	AMR_Gene_Family
+OXA-648	OXA beta-lactamase	AMR_Gene_Family
+OXA-649	OXA beta-lactamase	AMR_Gene_Family
+OXA-65	OXA beta-lactamase	AMR_Gene_Family
+OXA-653	OXA beta-lactamase	AMR_Gene_Family
+OXA-66	OXA beta-lactamase	AMR_Gene_Family
+OXA-663	OXA beta-lactamase	AMR_Gene_Family
+OXA-664	OXA beta-lactamase	AMR_Gene_Family
+OXA-665	OXA beta-lactamase	AMR_Gene_Family
+OXA-668	OXA beta-lactamase	AMR_Gene_Family
+OXA-67	OXA beta-lactamase	AMR_Gene_Family
+OXA-671	OXA beta-lactamase	AMR_Gene_Family
+OXA-672	OXA beta-lactamase	AMR_Gene_Family
+OXA-673	OXA beta-lactamase	AMR_Gene_Family
+OXA-68	OXA beta-lactamase	AMR_Gene_Family
+OXA-681	OXA beta-lactamase	AMR_Gene_Family
+OXA-69	OXA beta-lactamase	AMR_Gene_Family
+OXA-7	OXA beta-lactamase	AMR_Gene_Family
+OXA-70	OXA beta-lactamase	AMR_Gene_Family
+OXA-71	OXA beta-lactamase	AMR_Gene_Family
+OXA-72	OXA beta-lactamase	AMR_Gene_Family
+OXA-724	OXA beta-lactamase	AMR_Gene_Family
+OXA-73	OXA beta-lactamase	AMR_Gene_Family
+OXA-737	OXA beta-lactamase	AMR_Gene_Family
+OXA-74	OXA beta-lactamase	AMR_Gene_Family
+OXA-75	OXA beta-lactamase	AMR_Gene_Family
+OXA-76	OXA beta-lactamase	AMR_Gene_Family
+OXA-77	OXA beta-lactamase	AMR_Gene_Family
+OXA-779	OXA beta-lactamase	AMR_Gene_Family
+OXA-78	OXA beta-lactamase	AMR_Gene_Family
+OXA-79	OXA beta-lactamase	AMR_Gene_Family
+OXA-80	OXA beta-lactamase	AMR_Gene_Family
+OXA-812	OXA beta-lactamase	AMR_Gene_Family
+OXA-818	OXA beta-lactamase	AMR_Gene_Family
+OXA-82	OXA beta-lactamase	AMR_Gene_Family
+OXA-825	OXA beta-lactamase	AMR_Gene_Family
+OXA-83	OXA beta-lactamase	AMR_Gene_Family
+OXA-835	OXA beta-lactamase	AMR_Gene_Family
+OXA-837	OXA beta-lactamase	AMR_Gene_Family
+OXA-838	OXA beta-lactamase	AMR_Gene_Family
+OXA-84	OXA beta-lactamase	AMR_Gene_Family
+OXA-846	OXA beta-lactamase	AMR_Gene_Family
+OXA-85	OXA beta-lactamase	AMR_Gene_Family
+OXA-850	OXA beta-lactamase	AMR_Gene_Family
+OXA-86	OXA beta-lactamase	AMR_Gene_Family
+OXA-87	OXA beta-lactamase	AMR_Gene_Family
+OXA-88	OXA beta-lactamase	AMR_Gene_Family
+OXA-89	OXA beta-lactamase	AMR_Gene_Family
+OXA-895	OXA beta-lactamase	AMR_Gene_Family
+OXA-897	OXA beta-lactamase	AMR_Gene_Family
+OXA-898	OXA beta-lactamase	AMR_Gene_Family
+OXA-899	OXA beta-lactamase	AMR_Gene_Family
+OXA-9	OXA beta-lactamase	AMR_Gene_Family
+OXA-90	OXA beta-lactamase	AMR_Gene_Family
+OXA-906	OXA beta-lactamase	AMR_Gene_Family
+OXA-91	OXA beta-lactamase	AMR_Gene_Family
+OXA-915	OXA beta-lactamase	AMR_Gene_Family
+OXA-92	OXA beta-lactamase	AMR_Gene_Family
+OXA-926	OXA beta-lactamase	AMR_Gene_Family
+OXA-93	OXA beta-lactamase	AMR_Gene_Family
+OXA-930	OXA beta-lactamase	AMR_Gene_Family
+OXA-931	OXA beta-lactamase	AMR_Gene_Family
+OXA-94	OXA beta-lactamase	AMR_Gene_Family
+OXA-95	OXA beta-lactamase	AMR_Gene_Family
+OXA-96	OXA beta-lactamase	AMR_Gene_Family
+OXA-97	OXA beta-lactamase	AMR_Gene_Family
+OXA-98	OXA beta-lactamase	AMR_Gene_Family
+OXA-99	OXA beta-lactamase	AMR_Gene_Family
+PC1 beta-lactamase (blaZ)	blaZ beta-lactamase	AMR_Gene_Family
+PDC-1	PDC beta-lactamase	AMR_Gene_Family
+PDC-10	PDC beta-lactamase	AMR_Gene_Family
+PDC-104	PDC beta-lactamase	AMR_Gene_Family
+PDC-105	PDC beta-lactamase	AMR_Gene_Family
+PDC-11	PDC beta-lactamase	AMR_Gene_Family
+PDC-117	PDC beta-lactamase	AMR_Gene_Family
+PDC-118	PDC beta-lactamase	AMR_Gene_Family
+PDC-119	PDC beta-lactamase	AMR_Gene_Family
+PDC-14	PDC beta-lactamase	AMR_Gene_Family
+PDC-173	PDC beta-lactamase	AMR_Gene_Family
+PDC-183	PDC beta-lactamase	AMR_Gene_Family
+PDC-19a	PDC beta-lactamase	AMR_Gene_Family
+PDC-19b	PDC beta-lactamase	AMR_Gene_Family
+PDC-2	PDC beta-lactamase	AMR_Gene_Family
+PDC-201	PDC beta-lactamase	AMR_Gene_Family
+PDC-207	PDC beta-lactamase	AMR_Gene_Family
+PDC-212	PDC beta-lactamase	AMR_Gene_Family
+PDC-225	PDC beta-lactamase	AMR_Gene_Family
+PDC-23	PDC beta-lactamase	AMR_Gene_Family
+PDC-231	PDC beta-lactamase	AMR_Gene_Family
+PDC-240	PDC beta-lactamase	AMR_Gene_Family
+PDC-255	PDC beta-lactamase	AMR_Gene_Family
+PDC-257	PDC beta-lactamase	AMR_Gene_Family
+PDC-258	PDC beta-lactamase	AMR_Gene_Family
+PDC-264	PDC beta-lactamase	AMR_Gene_Family
+PDC-272	PDC beta-lactamase	AMR_Gene_Family
+PDC-28	PDC beta-lactamase	AMR_Gene_Family
+PDC-284	PDC beta-lactamase	AMR_Gene_Family
+PDC-285	PDC beta-lactamase	AMR_Gene_Family
+PDC-292	PDC beta-lactamase	AMR_Gene_Family
+PDC-293	PDC beta-lactamase	AMR_Gene_Family
+PDC-3	PDC beta-lactamase	AMR_Gene_Family
+PDC-306	PDC beta-lactamase	AMR_Gene_Family
+PDC-313	PDC beta-lactamase	AMR_Gene_Family
+PDC-323	PDC beta-lactamase	AMR_Gene_Family
+PDC-324	PDC beta-lactamase	AMR_Gene_Family
+PDC-337	PDC beta-lactamase	AMR_Gene_Family
+PDC-346	PDC beta-lactamase	AMR_Gene_Family
+PDC-352	PDC beta-lactamase	AMR_Gene_Family
+PDC-376	PDC beta-lactamase	AMR_Gene_Family
+PDC-380	PDC beta-lactamase	AMR_Gene_Family
+PDC-384	PDC beta-lactamase	AMR_Gene_Family
+PDC-393	PDC beta-lactamase	AMR_Gene_Family
+PDC-4	PDC beta-lactamase	AMR_Gene_Family
+PDC-41	PDC beta-lactamase	AMR_Gene_Family
+PDC-413	PDC beta-lactamase	AMR_Gene_Family
+PDC-429	PDC beta-lactamase	AMR_Gene_Family
+PDC-43	PDC beta-lactamase	AMR_Gene_Family
+PDC-438	PDC beta-lactamase	AMR_Gene_Family
+PDC-44	PDC beta-lactamase	AMR_Gene_Family
+PDC-449	PDC beta-lactamase	AMR_Gene_Family
+PDC-45	PDC beta-lactamase	AMR_Gene_Family
+PDC-461	PDC beta-lactamase	AMR_Gene_Family
+PDC-464	PDC beta-lactamase	AMR_Gene_Family
+PDC-47	PDC beta-lactamase	AMR_Gene_Family
+PDC-48	PDC beta-lactamase	AMR_Gene_Family
+PDC-49	PDC beta-lactamase	AMR_Gene_Family
+PDC-5	PDC beta-lactamase	AMR_Gene_Family
+PDC-50	PDC beta-lactamase	AMR_Gene_Family
+PDC-51	PDC beta-lactamase	AMR_Gene_Family
+PDC-52	PDC beta-lactamase	AMR_Gene_Family
+PDC-53	PDC beta-lactamase	AMR_Gene_Family
+PDC-54	PDC beta-lactamase	AMR_Gene_Family
+PDC-55	PDC beta-lactamase	AMR_Gene_Family
+PDC-56	PDC beta-lactamase	AMR_Gene_Family
+PDC-57	PDC beta-lactamase	AMR_Gene_Family
+PDC-59	PDC beta-lactamase	AMR_Gene_Family
+PDC-6	PDC beta-lactamase	AMR_Gene_Family
+PDC-61	PDC beta-lactamase	AMR_Gene_Family
+PDC-62	PDC beta-lactamase	AMR_Gene_Family
+PDC-63	PDC beta-lactamase	AMR_Gene_Family
+PDC-65	PDC beta-lactamase	AMR_Gene_Family
+PDC-66	PDC beta-lactamase	AMR_Gene_Family
+PDC-67	PDC beta-lactamase	AMR_Gene_Family
+PDC-68	PDC beta-lactamase	AMR_Gene_Family
+PDC-69	PDC beta-lactamase	AMR_Gene_Family
+PDC-7	PDC beta-lactamase	AMR_Gene_Family
+PDC-70	PDC beta-lactamase	AMR_Gene_Family
+PDC-72	PDC beta-lactamase	AMR_Gene_Family
+PDC-73	PDC beta-lactamase	AMR_Gene_Family
+PDC-74	PDC beta-lactamase	AMR_Gene_Family
+PDC-75	PDC beta-lactamase	AMR_Gene_Family
+PDC-76	PDC beta-lactamase	AMR_Gene_Family
+PDC-77	PDC beta-lactamase	AMR_Gene_Family
+PDC-78	PDC beta-lactamase	AMR_Gene_Family
+PDC-79	PDC beta-lactamase	AMR_Gene_Family
+PDC-8	PDC beta-lactamase	AMR_Gene_Family
+PDC-80	PDC beta-lactamase	AMR_Gene_Family
+PDC-81	PDC beta-lactamase	AMR_Gene_Family
+PDC-82	PDC beta-lactamase	AMR_Gene_Family
+PDC-83	PDC beta-lactamase	AMR_Gene_Family
+PDC-84	PDC beta-lactamase	AMR_Gene_Family
+PDC-85	PDC beta-lactamase	AMR_Gene_Family
+PDC-86	PDC beta-lactamase	AMR_Gene_Family
+PDC-87	PDC beta-lactamase	AMR_Gene_Family
+PDC-88	PDC beta-lactamase	AMR_Gene_Family
+PDC-89	PDC beta-lactamase	AMR_Gene_Family
+PDC-9	PDC beta-lactamase	AMR_Gene_Family
+PDC-90	PDC beta-lactamase	AMR_Gene_Family
+PDC-91	PDC beta-lactamase	AMR_Gene_Family
+PDC-92	PDC beta-lactamase	AMR_Gene_Family
+PDC-93	PDC beta-lactamase	AMR_Gene_Family
+QnrA1	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrA2	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrA3	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrA4	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrA5	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrA6	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrA7	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB1	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB10	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB11	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB12	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB13	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB14	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB15	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB16	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB17	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB18	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB19	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB2	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB20	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB21	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB22	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB23	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB24	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB25	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB26	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB27	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB28	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB29	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB3	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB30	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB31	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB32	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB33	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB34	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB35	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB36	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB37	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB38	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB4	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB40	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB41	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB42	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB43	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB44	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB45	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB46	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB47	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB48	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB49	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB5	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB50	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB54	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB55	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB56	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB57	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB58	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB59	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB6	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB60	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB61	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB62	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB64	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB65	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB66	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB67	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB68	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB69	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB7	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB70	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB71	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB72	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB73	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB74	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB8	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrB9	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrC	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrD1	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrD2	quinolone resistance protein (qnr)	AMR_Gene_Family
+qnrE1	quinolone resistance protein (qnr)	AMR_Gene_Family
+qnrE2	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrS1	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrS10	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrS11	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrS12	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrS15	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrS2	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrS3	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrS4	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrS5	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrS6	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrS7	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrS8	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrS9	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrVC1	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrVC3	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrVC4	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrVC5	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrVC6	quinolone resistance protein (qnr)	AMR_Gene_Family
+QnrVC7	quinolone resistance protein (qnr)	AMR_Gene_Family
+Rhodobacter sphaeroides ampC beta-lactamase	ampC-type beta-lactamase	AMR_Gene_Family
+SHV-1	SHV beta-lactamase	AMR_Gene_Family
+SHV-100	SHV beta-lactamase	AMR_Gene_Family
+SHV-101	SHV beta-lactamase	AMR_Gene_Family
+SHV-102	SHV beta-lactamase	AMR_Gene_Family
+SHV-103	SHV beta-lactamase	AMR_Gene_Family
+SHV-104	SHV beta-lactamase	AMR_Gene_Family
+SHV-105	SHV beta-lactamase	AMR_Gene_Family
+SHV-106	SHV beta-lactamase	AMR_Gene_Family
+SHV-107	SHV beta-lactamase	AMR_Gene_Family
+SHV-108	SHV beta-lactamase	AMR_Gene_Family
+SHV-109	SHV beta-lactamase	AMR_Gene_Family
+SHV-11	SHV beta-lactamase	AMR_Gene_Family
+SHV-110	SHV beta-lactamase	AMR_Gene_Family
+SHV-111	SHV beta-lactamase	AMR_Gene_Family
+SHV-112	SHV beta-lactamase	AMR_Gene_Family
+SHV-119	SHV beta-lactamase	AMR_Gene_Family
+SHV-12	SHV beta-lactamase	AMR_Gene_Family
+SHV-120	SHV beta-lactamase	AMR_Gene_Family
+SHV-121	SHV beta-lactamase	AMR_Gene_Family
+SHV-122	SHV beta-lactamase	AMR_Gene_Family
+SHV-123	SHV beta-lactamase	AMR_Gene_Family
+SHV-124	SHV beta-lactamase	AMR_Gene_Family
+SHV-125	SHV beta-lactamase	AMR_Gene_Family
+SHV-126	SHV beta-lactamase	AMR_Gene_Family
+SHV-127	SHV beta-lactamase	AMR_Gene_Family
+SHV-128	SHV beta-lactamase	AMR_Gene_Family
+SHV-129	SHV beta-lactamase	AMR_Gene_Family
+SHV-13	SHV beta-lactamase	AMR_Gene_Family
+SHV-133	SHV beta-lactamase	AMR_Gene_Family
+SHV-134	SHV beta-lactamase	AMR_Gene_Family
+SHV-135	SHV beta-lactamase	AMR_Gene_Family
+SHV-137	SHV beta-lactamase	AMR_Gene_Family
+SHV-14	SHV beta-lactamase	AMR_Gene_Family
+SHV-140	SHV beta-lactamase	AMR_Gene_Family
+SHV-141	SHV beta-lactamase	AMR_Gene_Family
+SHV-142	SHV beta-lactamase	AMR_Gene_Family
+SHV-143	SHV beta-lactamase	AMR_Gene_Family
+SHV-144	SHV beta-lactamase	AMR_Gene_Family
+SHV-145	SHV beta-lactamase	AMR_Gene_Family
+SHV-147	SHV beta-lactamase	AMR_Gene_Family
+SHV-148	SHV beta-lactamase	AMR_Gene_Family
+SHV-149	SHV beta-lactamase	AMR_Gene_Family
+SHV-15	SHV beta-lactamase	AMR_Gene_Family
+SHV-150	SHV beta-lactamase	AMR_Gene_Family
+SHV-151	SHV beta-lactamase	AMR_Gene_Family
+SHV-152	SHV beta-lactamase	AMR_Gene_Family
+SHV-153	SHV beta-lactamase	AMR_Gene_Family
+SHV-154	SHV beta-lactamase	AMR_Gene_Family
+SHV-155	SHV beta-lactamase	AMR_Gene_Family
+SHV-156	SHV beta-lactamase	AMR_Gene_Family
+SHV-157	SHV beta-lactamase	AMR_Gene_Family
+SHV-158	SHV beta-lactamase	AMR_Gene_Family
+SHV-159	SHV beta-lactamase	AMR_Gene_Family
+SHV-16	SHV beta-lactamase	AMR_Gene_Family
+SHV-160	SHV beta-lactamase	AMR_Gene_Family
+SHV-161	SHV beta-lactamase	AMR_Gene_Family
+SHV-162	SHV beta-lactamase	AMR_Gene_Family
+SHV-163	SHV beta-lactamase	AMR_Gene_Family
+SHV-164	SHV beta-lactamase	AMR_Gene_Family
+SHV-165	SHV beta-lactamase	AMR_Gene_Family
+SHV-167	SHV beta-lactamase	AMR_Gene_Family
+SHV-168	SHV beta-lactamase	AMR_Gene_Family
+SHV-172	SHV beta-lactamase	AMR_Gene_Family
+SHV-173	SHV beta-lactamase	AMR_Gene_Family
+SHV-178	SHV beta-lactamase	AMR_Gene_Family
+SHV-179	SHV beta-lactamase	AMR_Gene_Family
+SHV-18	SHV beta-lactamase	AMR_Gene_Family
+SHV-180	SHV beta-lactamase	AMR_Gene_Family
+SHV-182	SHV beta-lactamase	AMR_Gene_Family
+SHV-183	SHV beta-lactamase	AMR_Gene_Family
+SHV-185	SHV beta-lactamase	AMR_Gene_Family
+SHV-186	SHV beta-lactamase	AMR_Gene_Family
+SHV-187	SHV beta-lactamase	AMR_Gene_Family
+SHV-188	SHV beta-lactamase	AMR_Gene_Family
+SHV-189	SHV beta-lactamase	AMR_Gene_Family
+SHV-19	SHV beta-lactamase	AMR_Gene_Family
+SHV-193	SHV beta-lactamase	AMR_Gene_Family
+SHV-194	SHV beta-lactamase	AMR_Gene_Family
+SHV-195	SHV beta-lactamase	AMR_Gene_Family
+SHV-196	SHV beta-lactamase	AMR_Gene_Family
+SHV-197	SHV beta-lactamase	AMR_Gene_Family
+SHV-198	SHV beta-lactamase	AMR_Gene_Family
+SHV-199	SHV beta-lactamase	AMR_Gene_Family
+SHV-1b-b	SHV beta-lactamase	AMR_Gene_Family
+SHV-2	SHV beta-lactamase	AMR_Gene_Family
+SHV-20	SHV beta-lactamase	AMR_Gene_Family
+SHV-200	SHV beta-lactamase	AMR_Gene_Family
+SHV-201	SHV beta-lactamase	AMR_Gene_Family
+SHV-202	SHV beta-lactamase	AMR_Gene_Family
+SHV-203	SHV beta-lactamase	AMR_Gene_Family
+SHV-204	SHV beta-lactamase	AMR_Gene_Family
+SHV-205	SHV beta-lactamase	AMR_Gene_Family
+SHV-206	SHV beta-lactamase	AMR_Gene_Family
+SHV-207	SHV beta-lactamase	AMR_Gene_Family
+SHV-208	SHV beta-lactamase	AMR_Gene_Family
+SHV-209	SHV beta-lactamase	AMR_Gene_Family
+SHV-21	SHV beta-lactamase	AMR_Gene_Family
+SHV-210	SHV beta-lactamase	AMR_Gene_Family
+SHV-211	SHV beta-lactamase	AMR_Gene_Family
+SHV-212	SHV beta-lactamase	AMR_Gene_Family
+SHV-213	SHV beta-lactamase	AMR_Gene_Family
+SHV-214	SHV beta-lactamase	AMR_Gene_Family
+SHV-215	SHV beta-lactamase	AMR_Gene_Family
+SHV-216	SHV beta-lactamase	AMR_Gene_Family
+SHV-217	SHV beta-lactamase	AMR_Gene_Family
+SHV-218	SHV beta-lactamase	AMR_Gene_Family
+SHV-219	SHV beta-lactamase	AMR_Gene_Family
+SHV-22	SHV beta-lactamase	AMR_Gene_Family
+SHV-220	SHV beta-lactamase	AMR_Gene_Family
+SHV-221	SHV beta-lactamase	AMR_Gene_Family
+SHV-222	SHV beta-lactamase	AMR_Gene_Family
+SHV-223	SHV beta-lactamase	AMR_Gene_Family
+SHV-224	SHV beta-lactamase	AMR_Gene_Family
+SHV-225	SHV beta-lactamase	AMR_Gene_Family
+SHV-226	SHV beta-lactamase	AMR_Gene_Family
+SHV-227	SHV beta-lactamase	AMR_Gene_Family
+SHV-228	SHV beta-lactamase	AMR_Gene_Family
+SHV-23	SHV beta-lactamase	AMR_Gene_Family
+SHV-24	SHV beta-lactamase	AMR_Gene_Family
+SHV-25	SHV beta-lactamase	AMR_Gene_Family
+SHV-26	SHV beta-lactamase	AMR_Gene_Family
+SHV-27	SHV beta-lactamase	AMR_Gene_Family
+SHV-28	SHV beta-lactamase	AMR_Gene_Family
+SHV-29	SHV beta-lactamase	AMR_Gene_Family
+SHV-2A	SHV beta-lactamase	AMR_Gene_Family
+SHV-3	SHV beta-lactamase	AMR_Gene_Family
+SHV-30	SHV beta-lactamase	AMR_Gene_Family
+SHV-31	SHV beta-lactamase	AMR_Gene_Family
+SHV-32	SHV beta-lactamase	AMR_Gene_Family
+SHV-33	SHV beta-lactamase	AMR_Gene_Family
+SHV-34	SHV beta-lactamase	AMR_Gene_Family
+SHV-35	SHV beta-lactamase	AMR_Gene_Family
+SHV-36	SHV beta-lactamase	AMR_Gene_Family
+SHV-37	SHV beta-lactamase	AMR_Gene_Family
+SHV-38	SHV beta-lactamase	AMR_Gene_Family
+SHV-39	SHV beta-lactamase	AMR_Gene_Family
+SHV-4	SHV beta-lactamase	AMR_Gene_Family
+SHV-40	SHV beta-lactamase	AMR_Gene_Family
+SHV-41	SHV beta-lactamase	AMR_Gene_Family
+SHV-42	SHV beta-lactamase	AMR_Gene_Family
+SHV-43	SHV beta-lactamase	AMR_Gene_Family
+SHV-44	SHV beta-lactamase	AMR_Gene_Family
+SHV-45	SHV beta-lactamase	AMR_Gene_Family
+SHV-46	SHV beta-lactamase	AMR_Gene_Family
+SHV-48	SHV beta-lactamase	AMR_Gene_Family
+SHV-49	SHV beta-lactamase	AMR_Gene_Family
+SHV-5	SHV beta-lactamase	AMR_Gene_Family
+SHV-50	SHV beta-lactamase	AMR_Gene_Family
+SHV-51	SHV beta-lactamase	AMR_Gene_Family
+SHV-52	SHV beta-lactamase	AMR_Gene_Family
+SHV-53	SHV beta-lactamase	AMR_Gene_Family
+SHV-55	SHV beta-lactamase	AMR_Gene_Family
+SHV-56	SHV beta-lactamase	AMR_Gene_Family
+SHV-57	SHV beta-lactamase	AMR_Gene_Family
+SHV-59	SHV beta-lactamase	AMR_Gene_Family
+SHV-6	SHV beta-lactamase	AMR_Gene_Family
+SHV-60	SHV beta-lactamase	AMR_Gene_Family
+SHV-61	SHV beta-lactamase	AMR_Gene_Family
+SHV-62	SHV beta-lactamase	AMR_Gene_Family
+SHV-63	SHV beta-lactamase	AMR_Gene_Family
+SHV-64	SHV beta-lactamase	AMR_Gene_Family
+SHV-65	SHV beta-lactamase	AMR_Gene_Family
+SHV-66	SHV beta-lactamase	AMR_Gene_Family
+SHV-67	SHV beta-lactamase	AMR_Gene_Family
+SHV-69	SHV beta-lactamase	AMR_Gene_Family
+SHV-7	SHV beta-lactamase	AMR_Gene_Family
+SHV-70	SHV beta-lactamase	AMR_Gene_Family
+SHV-71	SHV beta-lactamase	AMR_Gene_Family
+SHV-72	SHV beta-lactamase	AMR_Gene_Family
+SHV-73	SHV beta-lactamase	AMR_Gene_Family
+SHV-74	SHV beta-lactamase	AMR_Gene_Family
+SHV-75	SHV beta-lactamase	AMR_Gene_Family
+SHV-76	SHV beta-lactamase	AMR_Gene_Family
+SHV-77	SHV beta-lactamase	AMR_Gene_Family
+SHV-78	SHV beta-lactamase	AMR_Gene_Family
+SHV-79	SHV beta-lactamase	AMR_Gene_Family
+SHV-8	SHV beta-lactamase	AMR_Gene_Family
+SHV-80	SHV beta-lactamase	AMR_Gene_Family
+SHV-81	SHV beta-lactamase	AMR_Gene_Family
+SHV-82	SHV beta-lactamase	AMR_Gene_Family
+SHV-83	SHV beta-lactamase	AMR_Gene_Family
+SHV-84	SHV beta-lactamase	AMR_Gene_Family
+SHV-85	SHV beta-lactamase	AMR_Gene_Family
+SHV-86	SHV beta-lactamase	AMR_Gene_Family
+SHV-89	SHV beta-lactamase	AMR_Gene_Family
+SHV-9	SHV beta-lactamase	AMR_Gene_Family
+SHV-92	SHV beta-lactamase	AMR_Gene_Family
+SHV-93	SHV beta-lactamase	AMR_Gene_Family
+SHV-94	SHV beta-lactamase	AMR_Gene_Family
+SHV-95	SHV beta-lactamase	AMR_Gene_Family
+SHV-96	SHV beta-lactamase	AMR_Gene_Family
+SHV-97	SHV beta-lactamase	AMR_Gene_Family
+SHV-98	SHV beta-lactamase	AMR_Gene_Family
+SHV-99	SHV beta-lactamase	AMR_Gene_Family
+SIM-1	SIM beta-lactamase	AMR_Gene_Family
+SME-1	SME beta-lactamase	AMR_Gene_Family
+SME-2	SME beta-lactamase	AMR_Gene_Family
+SME-3	SME beta-lactamase	AMR_Gene_Family
+SME-4	SME beta-lactamase	AMR_Gene_Family
+SME-5	SME beta-lactamase	AMR_Gene_Family
+SPM-1	SPM beta-lactamase	AMR_Gene_Family
+Streptococcus pyogenes folP with mutation conferring resistance to sulfonamides	sulfonamide resistant dihydropteroate synthase folP	AMR_Gene_Family
+sul1	sulfonamide resistant sul	AMR_Gene_Family
+sul2	sulfonamide resistant sul	AMR_Gene_Family
+sul3	sulfonamide resistant sul	AMR_Gene_Family
+sul4	sulfonamide resistant sul	AMR_Gene_Family
+TEM-1	TEM beta-lactamase	AMR_Gene_Family
+TEM-10	TEM beta-lactamase	AMR_Gene_Family
+TEM-101	TEM beta-lactamase	AMR_Gene_Family
+TEM-102	TEM beta-lactamase	AMR_Gene_Family
+TEM-104	TEM beta-lactamase	AMR_Gene_Family
+TEM-105	TEM beta-lactamase	AMR_Gene_Family
+TEM-106	TEM beta-lactamase	AMR_Gene_Family
+TEM-107	TEM beta-lactamase	AMR_Gene_Family
+TEM-108	TEM beta-lactamase	AMR_Gene_Family
+TEM-109	TEM beta-lactamase	AMR_Gene_Family
+TEM-11	TEM beta-lactamase	AMR_Gene_Family
+TEM-110	TEM beta-lactamase	AMR_Gene_Family
+TEM-111	TEM beta-lactamase	AMR_Gene_Family
+TEM-112	TEM beta-lactamase	AMR_Gene_Family
+TEM-113	TEM beta-lactamase	AMR_Gene_Family
+TEM-114	TEM beta-lactamase	AMR_Gene_Family
+TEM-115	TEM beta-lactamase	AMR_Gene_Family
+TEM-116	TEM beta-lactamase	AMR_Gene_Family
+TEM-117	TEM beta-lactamase	AMR_Gene_Family
+TEM-118	TEM beta-lactamase	AMR_Gene_Family
+TEM-12	TEM beta-lactamase	AMR_Gene_Family
+TEM-120	TEM beta-lactamase	AMR_Gene_Family
+TEM-121	TEM beta-lactamase	AMR_Gene_Family
+TEM-122	TEM beta-lactamase	AMR_Gene_Family
+TEM-123	TEM beta-lactamase	AMR_Gene_Family
+TEM-124	TEM beta-lactamase	AMR_Gene_Family
+TEM-125	TEM beta-lactamase	AMR_Gene_Family
+TEM-126	TEM beta-lactamase	AMR_Gene_Family
+TEM-127	TEM beta-lactamase	AMR_Gene_Family
+TEM-128	TEM beta-lactamase	AMR_Gene_Family
+TEM-129	TEM beta-lactamase	AMR_Gene_Family
+TEM-130	TEM beta-lactamase	AMR_Gene_Family
+TEM-131	TEM beta-lactamase	AMR_Gene_Family
+TEM-132	TEM beta-lactamase	AMR_Gene_Family
+TEM-133	TEM beta-lactamase	AMR_Gene_Family
+TEM-134	TEM beta-lactamase	AMR_Gene_Family
+TEM-135	TEM beta-lactamase	AMR_Gene_Family
+TEM-136	TEM beta-lactamase	AMR_Gene_Family
+TEM-137	TEM beta-lactamase	AMR_Gene_Family
+TEM-138	TEM beta-lactamase	AMR_Gene_Family
+TEM-139	TEM beta-lactamase	AMR_Gene_Family
+TEM-141	TEM beta-lactamase	AMR_Gene_Family
+TEM-142	TEM beta-lactamase	AMR_Gene_Family
+TEM-143	TEM beta-lactamase	AMR_Gene_Family
+TEM-144	TEM beta-lactamase	AMR_Gene_Family
+TEM-145	TEM beta-lactamase	AMR_Gene_Family
+TEM-146	TEM beta-lactamase	AMR_Gene_Family
+TEM-147	TEM beta-lactamase	AMR_Gene_Family
+TEM-148	TEM beta-lactamase	AMR_Gene_Family
+TEM-149	TEM beta-lactamase	AMR_Gene_Family
+TEM-15	TEM beta-lactamase	AMR_Gene_Family
+TEM-150	TEM beta-lactamase	AMR_Gene_Family
+TEM-151	TEM beta-lactamase	AMR_Gene_Family
+TEM-152	TEM beta-lactamase	AMR_Gene_Family
+TEM-153	TEM beta-lactamase	AMR_Gene_Family
+TEM-154	TEM beta-lactamase	AMR_Gene_Family
+TEM-155	TEM beta-lactamase	AMR_Gene_Family
+TEM-156	TEM beta-lactamase	AMR_Gene_Family
+TEM-157	TEM beta-lactamase	AMR_Gene_Family
+TEM-158	TEM beta-lactamase	AMR_Gene_Family
+TEM-159	TEM beta-lactamase	AMR_Gene_Family
+TEM-16	TEM beta-lactamase	AMR_Gene_Family
+TEM-160	TEM beta-lactamase	AMR_Gene_Family
+TEM-162	TEM beta-lactamase	AMR_Gene_Family
+TEM-163	TEM beta-lactamase	AMR_Gene_Family
+TEM-164	TEM beta-lactamase	AMR_Gene_Family
+TEM-166	TEM beta-lactamase	AMR_Gene_Family
+TEM-167	TEM beta-lactamase	AMR_Gene_Family
+TEM-168	TEM beta-lactamase	AMR_Gene_Family
+TEM-169	TEM beta-lactamase	AMR_Gene_Family
+TEM-17	TEM beta-lactamase	AMR_Gene_Family
+TEM-171	TEM beta-lactamase	AMR_Gene_Family
+TEM-176	TEM beta-lactamase	AMR_Gene_Family
+TEM-177	TEM beta-lactamase	AMR_Gene_Family
+TEM-178	TEM beta-lactamase	AMR_Gene_Family
+TEM-181	TEM beta-lactamase	AMR_Gene_Family
+TEM-182	TEM beta-lactamase	AMR_Gene_Family
+TEM-183	TEM beta-lactamase	AMR_Gene_Family
+TEM-184	TEM beta-lactamase	AMR_Gene_Family
+TEM-185	TEM beta-lactamase	AMR_Gene_Family
+TEM-186	TEM beta-lactamase	AMR_Gene_Family
+TEM-187	TEM beta-lactamase	AMR_Gene_Family
+TEM-188	TEM beta-lactamase	AMR_Gene_Family
+TEM-189	TEM beta-lactamase	AMR_Gene_Family
+TEM-19	TEM beta-lactamase	AMR_Gene_Family
+TEM-190	TEM beta-lactamase	AMR_Gene_Family
+TEM-191	TEM beta-lactamase	AMR_Gene_Family
+TEM-192	TEM beta-lactamase	AMR_Gene_Family
+TEM-193	TEM beta-lactamase	AMR_Gene_Family
+TEM-194	TEM beta-lactamase	AMR_Gene_Family
+TEM-195	TEM beta-lactamase	AMR_Gene_Family
+TEM-196	TEM beta-lactamase	AMR_Gene_Family
+TEM-197	TEM beta-lactamase	AMR_Gene_Family
+TEM-198	TEM beta-lactamase	AMR_Gene_Family
+TEM-199	TEM beta-lactamase	AMR_Gene_Family
+TEM-2	TEM beta-lactamase	AMR_Gene_Family
+TEM-20	TEM beta-lactamase	AMR_Gene_Family
+TEM-201	TEM beta-lactamase	AMR_Gene_Family
+TEM-205	TEM beta-lactamase	AMR_Gene_Family
+TEM-206	TEM beta-lactamase	AMR_Gene_Family
+TEM-207	TEM beta-lactamase	AMR_Gene_Family
+TEM-208	TEM beta-lactamase	AMR_Gene_Family
+TEM-209	TEM beta-lactamase	AMR_Gene_Family
+TEM-21	TEM beta-lactamase	AMR_Gene_Family
+TEM-210	TEM beta-lactamase	AMR_Gene_Family
+TEM-211	TEM beta-lactamase	AMR_Gene_Family
+TEM-212	TEM beta-lactamase	AMR_Gene_Family
+TEM-213	TEM beta-lactamase	AMR_Gene_Family
+TEM-214	TEM beta-lactamase	AMR_Gene_Family
+TEM-215	TEM beta-lactamase	AMR_Gene_Family
+TEM-216	TEM beta-lactamase	AMR_Gene_Family
+TEM-217	TEM beta-lactamase	AMR_Gene_Family
+TEM-219	TEM beta-lactamase	AMR_Gene_Family
+TEM-22	TEM beta-lactamase	AMR_Gene_Family
+TEM-220	TEM beta-lactamase	AMR_Gene_Family
+TEM-224	TEM beta-lactamase	AMR_Gene_Family
+TEM-225	TEM beta-lactamase	AMR_Gene_Family
+TEM-226	TEM beta-lactamase	AMR_Gene_Family
+TEM-227	TEM beta-lactamase	AMR_Gene_Family
+TEM-228	TEM beta-lactamase	AMR_Gene_Family
+TEM-229	TEM beta-lactamase	AMR_Gene_Family
+TEM-230	TEM beta-lactamase	AMR_Gene_Family
+TEM-231	TEM beta-lactamase	AMR_Gene_Family
+TEM-232	TEM beta-lactamase	AMR_Gene_Family
+TEM-233	TEM beta-lactamase	AMR_Gene_Family
+TEM-234	TEM beta-lactamase	AMR_Gene_Family
+TEM-235	TEM beta-lactamase	AMR_Gene_Family
+TEM-236	TEM beta-lactamase	AMR_Gene_Family
+TEM-237	TEM beta-lactamase	AMR_Gene_Family
+TEM-238	TEM beta-lactamase	AMR_Gene_Family
+TEM-24	TEM beta-lactamase	AMR_Gene_Family
+TEM-240	TEM beta-lactamase	AMR_Gene_Family
+TEM-241	TEM beta-lactamase	AMR_Gene_Family
+TEM-242	TEM beta-lactamase	AMR_Gene_Family
+TEM-243	TEM beta-lactamase	AMR_Gene_Family
+TEM-26	TEM beta-lactamase	AMR_Gene_Family
+TEM-28	TEM beta-lactamase	AMR_Gene_Family
+TEM-29	TEM beta-lactamase	AMR_Gene_Family
+TEM-3	TEM beta-lactamase	AMR_Gene_Family
+TEM-30	TEM beta-lactamase	AMR_Gene_Family
+TEM-31	TEM beta-lactamase	AMR_Gene_Family
+TEM-32	TEM beta-lactamase	AMR_Gene_Family
+TEM-33	TEM beta-lactamase	AMR_Gene_Family
+TEM-34	TEM beta-lactamase	AMR_Gene_Family
+TEM-35	TEM beta-lactamase	AMR_Gene_Family
+TEM-36	TEM beta-lactamase	AMR_Gene_Family
+TEM-37	TEM beta-lactamase	AMR_Gene_Family
+TEM-39	TEM beta-lactamase	AMR_Gene_Family
+TEM-4	TEM beta-lactamase	AMR_Gene_Family
+TEM-40	TEM beta-lactamase	AMR_Gene_Family
+TEM-42	TEM beta-lactamase	AMR_Gene_Family
+TEM-43	TEM beta-lactamase	AMR_Gene_Family
+TEM-45	TEM beta-lactamase	AMR_Gene_Family
+TEM-47	TEM beta-lactamase	AMR_Gene_Family
+TEM-48	TEM beta-lactamase	AMR_Gene_Family
+TEM-49	TEM beta-lactamase	AMR_Gene_Family
+TEM-5	TEM beta-lactamase	AMR_Gene_Family
+TEM-52	TEM beta-lactamase	AMR_Gene_Family
+TEM-53	TEM beta-lactamase	AMR_Gene_Family
+TEM-54	TEM beta-lactamase	AMR_Gene_Family
+TEM-55	TEM beta-lactamase	AMR_Gene_Family
+TEM-57	TEM beta-lactamase	AMR_Gene_Family
+TEM-59	TEM beta-lactamase	AMR_Gene_Family
+TEM-6	TEM beta-lactamase	AMR_Gene_Family
+TEM-60	TEM beta-lactamase	AMR_Gene_Family
+TEM-63	TEM beta-lactamase	AMR_Gene_Family
+TEM-67	TEM beta-lactamase	AMR_Gene_Family
+TEM-68	TEM beta-lactamase	AMR_Gene_Family
+TEM-7	TEM beta-lactamase	AMR_Gene_Family
+TEM-70	TEM beta-lactamase	AMR_Gene_Family
+TEM-71	TEM beta-lactamase	AMR_Gene_Family
+TEM-72	TEM beta-lactamase	AMR_Gene_Family
+TEM-73	TEM beta-lactamase	AMR_Gene_Family
+TEM-75	TEM beta-lactamase	AMR_Gene_Family
+TEM-76	TEM beta-lactamase	AMR_Gene_Family
+TEM-78	TEM beta-lactamase	AMR_Gene_Family
+TEM-79	TEM beta-lactamase	AMR_Gene_Family
+TEM-8	TEM beta-lactamase	AMR_Gene_Family
+TEM-80	TEM beta-lactamase	AMR_Gene_Family
+TEM-81	TEM beta-lactamase	AMR_Gene_Family
+TEM-82	TEM beta-lactamase	AMR_Gene_Family
+TEM-83	TEM beta-lactamase	AMR_Gene_Family
+TEM-84	TEM beta-lactamase	AMR_Gene_Family
+TEM-85	TEM beta-lactamase	AMR_Gene_Family
+TEM-86	TEM beta-lactamase	AMR_Gene_Family
+TEM-87	TEM beta-lactamase	AMR_Gene_Family
+TEM-88	TEM beta-lactamase	AMR_Gene_Family
+TEM-89	TEM beta-lactamase	AMR_Gene_Family
+TEM-9	TEM beta-lactamase	AMR_Gene_Family
+TEM-90	TEM beta-lactamase	AMR_Gene_Family
+TEM-91	TEM beta-lactamase	AMR_Gene_Family
+TEM-92	TEM beta-lactamase	AMR_Gene_Family
+TEM-93	TEM beta-lactamase	AMR_Gene_Family
+TEM-94	TEM beta-lactamase	AMR_Gene_Family
+TEM-95	TEM beta-lactamase	AMR_Gene_Family
+TEM-96	TEM beta-lactamase	AMR_Gene_Family
+Trimethoprim-resistant dihydrofolate reductase DfrA42	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+Trimethoprim-resistant dihydrofolate reductase DfrA43	trimethoprim resistant dihydrofolate reductase dfr	AMR_Gene_Family
+vanA	glycopeptide resistance gene cluster;van ligase	AMR_Gene_Family
+vanB	glycopeptide resistance gene cluster;van ligase	AMR_Gene_Family
+vanC	glycopeptide resistance gene cluster;van ligase	AMR_Gene_Family
+vanD	glycopeptide resistance gene cluster;van ligase	AMR_Gene_Family
+vanE	glycopeptide resistance gene cluster;van ligase	AMR_Gene_Family
+vanF	glycopeptide resistance gene cluster;van ligase	AMR_Gene_Family
+vanG	glycopeptide resistance gene cluster;van ligase	AMR_Gene_Family
+vanHA	glycopeptide resistance gene cluster;vanH	AMR_Gene_Family
+vanHB	glycopeptide resistance gene cluster;vanH	AMR_Gene_Family
+vanHD	glycopeptide resistance gene cluster;vanH	AMR_Gene_Family
+vanHF	glycopeptide resistance gene cluster;vanH	AMR_Gene_Family
+vanHM	glycopeptide resistance gene cluster;vanH	AMR_Gene_Family
+vanHO	glycopeptide resistance gene cluster;vanH	AMR_Gene_Family
+vanI	glycopeptide resistance gene cluster;van ligase	AMR_Gene_Family
+vanKI	glycopeptide resistance gene cluster;vanK	AMR_Gene_Family
+vanL	glycopeptide resistance gene cluster;van ligase	AMR_Gene_Family
+vanM	glycopeptide resistance gene cluster;van ligase	AMR_Gene_Family
+vanN	glycopeptide resistance gene cluster;van ligase	AMR_Gene_Family
+vanO	glycopeptide resistance gene cluster;van ligase	AMR_Gene_Family
+vanRA	glycopeptide resistance gene cluster;vanR	AMR_Gene_Family
+vanRB	glycopeptide resistance gene cluster;vanR	AMR_Gene_Family
+vanRC	glycopeptide resistance gene cluster;vanR	AMR_Gene_Family
+vanRD	glycopeptide resistance gene cluster;vanR	AMR_Gene_Family
+vanRE	glycopeptide resistance gene cluster;vanR	AMR_Gene_Family
+vanRF	glycopeptide resistance gene cluster;vanR	AMR_Gene_Family
+vanRG	glycopeptide resistance gene cluster;vanR	AMR_Gene_Family
+vanRI	glycopeptide resistance gene cluster;vanR	AMR_Gene_Family
+vanRL	glycopeptide resistance gene cluster;vanR	AMR_Gene_Family
+vanRM	glycopeptide resistance gene cluster;vanR	AMR_Gene_Family
+vanRN	glycopeptide resistance gene cluster;vanR	AMR_Gene_Family
+vanRO	glycopeptide resistance gene cluster;vanR	AMR_Gene_Family
+vanSA	glycopeptide resistance gene cluster;vanS	AMR_Gene_Family
+vanSB	glycopeptide resistance gene cluster;vanS	AMR_Gene_Family
+vanSC	glycopeptide resistance gene cluster;vanS	AMR_Gene_Family
+vanSD	glycopeptide resistance gene cluster;vanS	AMR_Gene_Family
+vanSE	glycopeptide resistance gene cluster;vanS	AMR_Gene_Family
+vanSF	glycopeptide resistance gene cluster;vanS	AMR_Gene_Family
+vanSG	glycopeptide resistance gene cluster;vanS	AMR_Gene_Family
+vanSI	glycopeptide resistance gene cluster;vanS	AMR_Gene_Family
+vanSL	glycopeptide resistance gene cluster;vanS	AMR_Gene_Family
+vanSM	glycopeptide resistance gene cluster;vanS	AMR_Gene_Family
+vanSN	glycopeptide resistance gene cluster;vanS	AMR_Gene_Family
+vanSO	glycopeptide resistance gene cluster;vanS	AMR_Gene_Family
+vanTC	glycopeptide resistance gene cluster;vanT	AMR_Gene_Family
+vanTE	glycopeptide resistance gene cluster;vanT	AMR_Gene_Family
+vanTG	glycopeptide resistance gene cluster;vanT	AMR_Gene_Family
+vanTmL	glycopeptide resistance gene cluster;vanT	AMR_Gene_Family
+vanTN	glycopeptide resistance gene cluster;vanT	AMR_Gene_Family
+vanTrL	glycopeptide resistance gene cluster;vanT	AMR_Gene_Family
+vanUG	glycopeptide resistance gene cluster;vanU	AMR_Gene_Family
+vanVB	glycopeptide resistance gene cluster;vanV	AMR_Gene_Family
+vanWB	glycopeptide resistance gene cluster;vanW	AMR_Gene_Family
+vanWG	glycopeptide resistance gene cluster;vanW	AMR_Gene_Family
+vanWI	glycopeptide resistance gene cluster;vanW	AMR_Gene_Family
+vanXA	glycopeptide resistance gene cluster;vanX	AMR_Gene_Family
+vanXB	glycopeptide resistance gene cluster;vanX	AMR_Gene_Family
+vanXD	glycopeptide resistance gene cluster;vanX	AMR_Gene_Family
+vanXF	glycopeptide resistance gene cluster;vanX	AMR_Gene_Family
+vanXI	glycopeptide resistance gene cluster;vanX	AMR_Gene_Family
+vanXM	glycopeptide resistance gene cluster;vanX	AMR_Gene_Family
+vanXO	glycopeptide resistance gene cluster;vanX	AMR_Gene_Family
+vanXYC	glycopeptide resistance gene cluster;vanXY	AMR_Gene_Family
+vanXYE	glycopeptide resistance gene cluster;vanXY	AMR_Gene_Family
+vanXYG	glycopeptide resistance gene cluster;vanXY	AMR_Gene_Family
+vanXYL	glycopeptide resistance gene cluster;vanXY	AMR_Gene_Family
+vanXYN	glycopeptide resistance gene cluster;vanXY	AMR_Gene_Family
+vanYA	glycopeptide resistance gene cluster;vanY	AMR_Gene_Family
+vanYB	glycopeptide resistance gene cluster;vanY	AMR_Gene_Family
+vanYD	glycopeptide resistance gene cluster;vanY	AMR_Gene_Family
+vanYF	glycopeptide resistance gene cluster;vanY	AMR_Gene_Family
+vanYG1	glycopeptide resistance gene cluster;vanY	AMR_Gene_Family
+vanYM	glycopeptide resistance gene cluster;vanY	AMR_Gene_Family
+vanZA	glycopeptide resistance gene cluster;vanZ	AMR_Gene_Family
+vanZF	glycopeptide resistance gene cluster;vanZ	AMR_Gene_Family
+VIM-1	VIM beta-lactamase	AMR_Gene_Family
+VIM-10	VIM beta-lactamase	AMR_Gene_Family
+VIM-11	VIM beta-lactamase	AMR_Gene_Family
+VIM-12	VIM beta-lactamase	AMR_Gene_Family
+VIM-13	VIM beta-lactamase	AMR_Gene_Family
+VIM-14	VIM beta-lactamase	AMR_Gene_Family
+VIM-15	VIM beta-lactamase	AMR_Gene_Family
+VIM-16	VIM beta-lactamase	AMR_Gene_Family
+VIM-17	VIM beta-lactamase	AMR_Gene_Family
+VIM-18	VIM beta-lactamase	AMR_Gene_Family
+VIM-19	VIM beta-lactamase	AMR_Gene_Family
+VIM-2	VIM beta-lactamase	AMR_Gene_Family
+VIM-20	VIM beta-lactamase	AMR_Gene_Family
+VIM-23	VIM beta-lactamase	AMR_Gene_Family
+VIM-24	VIM beta-lactamase	AMR_Gene_Family
+VIM-25	VIM beta-lactamase	AMR_Gene_Family
+VIM-26	VIM beta-lactamase	AMR_Gene_Family
+VIM-27	VIM beta-lactamase	AMR_Gene_Family
+VIM-28	VIM beta-lactamase	AMR_Gene_Family
+VIM-29	VIM beta-lactamase	AMR_Gene_Family
+VIM-3	VIM beta-lactamase	AMR_Gene_Family
+VIM-30	VIM beta-lactamase	AMR_Gene_Family
+VIM-31	VIM beta-lactamase	AMR_Gene_Family
+VIM-32	VIM beta-lactamase	AMR_Gene_Family
+VIM-33	VIM beta-lactamase	AMR_Gene_Family
+VIM-34	VIM beta-lactamase	AMR_Gene_Family
+VIM-35	VIM beta-lactamase	AMR_Gene_Family
+VIM-36	VIM beta-lactamase	AMR_Gene_Family
+VIM-37	VIM beta-lactamase	AMR_Gene_Family
+VIM-38	VIM beta-lactamase	AMR_Gene_Family
+VIM-39	VIM beta-lactamase	AMR_Gene_Family
+VIM-4	VIM beta-lactamase	AMR_Gene_Family
+VIM-42	VIM beta-lactamase	AMR_Gene_Family
+VIM-43	VIM beta-lactamase	AMR_Gene_Family
+VIM-5	VIM beta-lactamase	AMR_Gene_Family
+VIM-6	VIM beta-lactamase	AMR_Gene_Family
+VIM-7	VIM beta-lactamase	AMR_Gene_Family
+VIM-8	VIM beta-lactamase	AMR_Gene_Family
+VIM-9	VIM beta-lactamase	AMR_Gene_Family
+AAC(6')-Ie-APH(2'')-Ia	AAC(6');APH(2'')	ARO_name
+aad(6)	ANT(6)	ARO_name
+AcrF	resistance-nodulation-cell division (RND) antibiotic efflux pump	ARO_name
+efmA	major facilitator superfamily (MFS) antibiotic efflux pump	ARO_name
+efrA	ATP-binding cassette (ABC) antibiotic efflux pump	ARO_name
+efrB	ATP-binding cassette (ABC) antibiotic efflux pump	ARO_name
+norA	major facilitator superfamily (MFS) antibiotic efflux pump	ARO_name
+qacA	major facilitator superfamily (MFS) antibiotic efflux pump	ARO_name
+rmtB	16S rRNA methyltransferase (G1405)	ARO_name
+Staphylococcus aureus norA	major facilitator superfamily (MFS) antibiotic efflux pump	ARO_name
+msrA	ABC-F ATP-binding cassette ribosomal protection protein	ARO_name
+msrC	ABC-F ATP-binding cassette ribosomal protection protein	ARO_name
+tet(A)	major facilitator superfamily (MFS) antibiotic efflux pump	ARO_name
+tet(B)	major facilitator superfamily (MFS) antibiotic efflux pump	ARO_name
+tet(K)	major facilitator superfamily (MFS) antibiotic efflux pump	ARO_name
+tet(L)	major facilitator superfamily (MFS) antibiotic efflux pump	ARO_name
+tetM	tetracycline-resistant ribosomal protection protein	ARO_name
+SAT-4	streptothricin acetyltransferase (SAT)	ARO_name
